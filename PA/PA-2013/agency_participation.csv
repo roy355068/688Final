@@ -1,0 +1,1801 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2013,Pennsylvania,PA,16830,PA0460100,Abington Township,55559,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15651,PA0010000,Adams,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16584,PA0361500,Adamstown,1845,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16051,PA0103300,"Adams Township, Butler County",12582,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16095,PA0115200,"Adams Township, Cambria County",5868,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16585,PA0361600,Akron,3918,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16422,PA0250800,Albion,1499,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16683,PA0391400,Alburtis,2390,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16395,PA0234000,Aldan,4150,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15693,PA0020N00,Aleppo Township,1918,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15829,PA0040100,Aliquippa,9323,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15671,PA0020000,Allegheny,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15726,PA0022000,Allegheny County District Attorney Criminal Investigation Division,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15721,PA0021J00,Allegheny County Housing Authority,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15734,PA0022800,Allegheny County Police Department,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15737,PA0022D00,Allegheny County Port Authority,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16097,PA0115400,Allegheny Township,2845,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15951,PA0070700,"Allegheny Township, Blair County",6726,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17229,PA0652800,"Allegheny Township, Westmoreland County",8332,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16670,PA0390100,Allentown,119277,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15945,PA0070100,Altoona,46103,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15961,PA007A19P,Altoona Hospital,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16831,PA0460200,Ambler,6514,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15830,PA0040200,Ambridge,6963,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15933,PA0065000,Amity Township,12744,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16644,PA0380100,Annville Township,4852,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17085,PA0581200,Apolacon Township,502,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15806,PA0030100,Apollo,1616,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16540,PA0350500,Archbald,7111,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16807,PA0440600,Armagh Township,3854,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15805,PA0030000,Armstrong,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17216,PA0651400,Arnold,5076,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16998,PA0541200,Ashland,2778,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16706,PA0401500,Ashley,2776,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16098,PA0115500,Ashville,223,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15755,PA0024800,Aspinwall,2796,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16357,PA0230100,Aston Township,16873,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16166,PA0151800,Atglen,1412,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,15966,PA0080100,Athens,3356,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15972,PA0080800,Athens Township,5243,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17023,PA0543900,Auburn,730,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16981,PA0530600,Austin,569,7,"Cities under 2,500",0,6,0,0,0,0,0
+2013,Pennsylvania,PA,15735,PA0022900,Avalon,4692,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16235,PA0180300,Avis,1521,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16707,PA0401600,Avoca,2665,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16167,PA0151900,Avondale,1431,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17230,PA0652900,Avonmore Boro,992,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15836,PA0040800,Baden,4090,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15672,PA0020100,Baldwin Borough,19810,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15681,PA0020A00,Baldwin Township,1984,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15917,PA0063000,Bally,1107,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16895,PA0480100,Bangor,5241,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16927,PA0483700,Bangor Area School District,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16818,PA0450400,Barrett Township,4149,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23116,PA0631200,Beallsville,459,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15828,PA0040000,Beaver,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15832,PA0040400,Beaver,4473,6,"Cities from 2,500 thru 9,999",0,9,0,0,0,0,0
+2013,Pennsylvania,PA,15833,PA0040500,Beaver Falls,8720,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16127,PA0131200,Beaver Meadows,853,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15877,PA0050000,Bedford,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15878,PA0050100,Bedford,2778,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16023,PA0095300,Bedminster Township,6969,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15756,PA0024900,Bell Acres,1404,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16134,PA0140100,Bellefonte,6353,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15673,PA0020200,Bellevue,8347,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23208,PA0655500,Bell Township,2338,7,"Cities under 2,500",0,5,0,0,0,0,0
+2013,Pennsylvania,PA,15949,PA0070500,Bellwood,1809,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15757,PA0025000,Ben Avon,1773,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15758,PA0025100,Ben Avon Heights,374,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15664,PA0012100,Bendersville,640,7,"Cities under 2,500",0,1,0,0,0,0,0
+2013,Pennsylvania,PA,15979,PA0090100,Bensalem Township,60516,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17150,PA0631000,Bentleyville,2559,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16249,PA0190100,Benton Area,1936,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16264,PA0191700,Benton Township,1244,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16408,PA0240400,Benzinger Township,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15887,PA0060000,Berks,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15927,PA0064100,Berks-Lehigh Regional,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17051,PA0560400,Berlin,2065,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15913,PA0062600,Bern,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15918,PA0063100,Bern Township,6877,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15919,PA0063200,Bernville,955,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16250,PA0190200,Berwick,10326,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15660,PA0011100,Berwick Township,2385,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16627,PA0370400,Bessemer,1082,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15674,PA0020300,Bethel Park,32392,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16650,PA0380700,Bethel Township,5121,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15821,PA0032100,"Bethel Township, Armstrong County",1187,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15928,PA0064200,"Bethel Township, Berks County",4125,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16358,PA0230200,"Bethel Township, Delaware County",9102,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16897,PA0480300,Bethlehem,75135,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16906,PA0481200,Bethlehem Township,23873,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15864,PA0044200,Big Beaver Borough,1955,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15662,PA0011500,Biglerville,1206,7,"Cities under 2,500",1,12,0,7,0,1,0
+2013,Pennsylvania,PA,16520,PA0330500,Big Run,616,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15888,PA0060100,Birdsboro,5162,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16168,PA0152000,Birmingham Township,4241,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16074,PA0111900,Blacklick Township,1978,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15944,PA0070000,Blair,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16504,PA0320100,Blairsville,3411,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15957,PA0071500,Blair Township,4573,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16541,PA0350600,Blakely,6545,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15759,PA0025200,Blawnox,1433,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16251,PA0190300,Bloomsburg Town,14563,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16256,PA0190900,Bloomsburg University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17095,PA0590300,Blossburg,1554,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17031,PA0544900,Blythe Township,915,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17231,PA0653000,Bolivar,456,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,23237,PA0011600,Bonneauville,1805,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17052,PA0560500,Boswell,1255,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15889,PA0060200,Boyertown,4047,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15760,PA0025300,Brackenridge,3249,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15738,PA0023000,Braddock,2151,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15761,PA0025400,Braddock Hills,1876,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16766,PA0420100,Bradford,8660,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15965,PA0080000,Bradford,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16769,PA0420400,Bradford Township,4834,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15762,PA0025500,Bradford Woods,1179,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17029,PA0544700,Branch Township,1818,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16619,PA0365300,Brecknock Township,7364,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15929,PA0064300,"Brecknock Township, Berks County",4614,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15675,PA0020400,Brentwood,9613,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16258,PA0191100,Briar Creek,692,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16253,PA0190500,Briar Creek Township,3020,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16832,PA0460300,Bridgeport,4574,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15763,PA0025600,Bridgeville,5140,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15856,PA0043200,Bridgewater,702,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15837,PA0040900,Brighton Township,8243,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15980,PA0090200,Bristol,9674,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15981,PA0090300,Bristol Township,54456,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16516,PA0330100,Brockway,2048,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16359,PA0230300,Brookhaven,8049,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16517,PA0330200,Brookville,3878,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16437,PA0260100,Brownsville,2309,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16833,PA0460400,Bryn Athyn,1402,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16018,PA0094700,Buckingham Township,20396,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15978,PA0090000,Bucks,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16046,PA0101800,Buffalo Township,7314,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23187,PA0601100,Buffalo Valley Regional,12144,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15668,PA001BF00,Bureau of Forestry: Adams County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15802,PA002BF00,Bureau of Forestry: Allegheny County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15825,PA003BF00,Bureau of Forestry: Armstrong County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15874,PA004BF00,Bureau of Forestry: Beaver County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15884,PA005BF00,Bureau of Forestry: Bedford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15941,PA006BF00,Bureau of Forestry: Berks County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15962,PA007BF00,Bureau of Forestry: Blair County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15975,PA008BF00,Bureau of Forestry: Bradford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16029,PA009BF00,Bureau of Forestry: Bucks County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16052,PA010BF00,Bureau of Forestry: Butler County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16108,PA011BF00,Bureau of Forestry: Cambria County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16113,PA012BF00,Bureau of Forestry: Cameron County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16130,PA013BF00,Bureau of Forestry: Carbon County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16145,PA014BF00,Bureau of Forestry: Centre County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16201,PA015BF00,Bureau of Forestry: Chester County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16212,PA016BF00,Bureau of Forestry: Clarion County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16229,PA017BF00,Bureau of Forestry: Clearfield County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16245,PA018BF00,Bureau of Forestry: Clinton County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16277,PA019BF00,Bureau of Forestry: Columbia County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16295,PA020BF00,Bureau of Forestry: Crawford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16321,PA021BF00,Bureau of Forestry: Cumberland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16353,PA022BF00,Bureau of Forestry: Dauphin County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16401,PA023BF00,Bureau of Forestry: Delaware County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16411,PA024BF00,Bureau of Forestry: Elk County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16433,PA025BF00,Bureau of Forestry: Erie County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16463,PA026BF00,Bureau of Forestry: Fayette County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16467,PA027BF00,Bureau of Forestry: Forest County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16478,PA028BF00,Bureau of Forestry: Franklin County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16483,PA029BF00,Bureau of Forestry: Fulton County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16493,PA030BF00,Bureau of Forestry: Greene County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16500,PA031BF00,Bureau of Forestry: Huntingdon County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16512,PA032BF00,Bureau of Forestry: Indiana County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16525,PA033BF00,Bureau of Forestry: Jefferson County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16532,PA034BF00,Bureau of Forestry: Juniata County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16566,PA035BF00,Bureau of Forestry: Lackawanna County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16620,PA036BF00,Bureau of Forestry: Lancaster County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16640,PA037BF00,Bureau of Forestry: Lawrence County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16666,PA038BF00,Bureau of Forestry: Lebanon County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16687,PA039BF00,Bureau of Forestry: Lehigh County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16747,PA040BF00,Bureau of Forestry: Luzerne County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16762,PA041BF00,Bureau of Forestry: Lycoming County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16776,PA042BF00,Bureau of Forestry: McKean County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16800,PA043BF00,Bureau of Forestry: Mercer County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16811,PA044BF00,Bureau of Forestry: Mifflin County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16826,PA045BF00,Bureau of Forestry: Monroe County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16885,PA046BF00,Bureau of Forestry: Montgomery County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16891,PA047BF00,Bureau of Forestry: Montour County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16929,PA048BF00,Bureau of Forestry: Northampton County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16947,PA049BF00,Bureau of Forestry: Northumberland County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16958,PA050BF00,Bureau of Forestry: Perry County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16963,PA051BF00,Bureau of Forestry: Philadelphia County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16973,PA052BF00,Bureau of Forestry: Pike County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16983,PA053BF00,Bureau of Forestry: Potter County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17036,PA054BF00,Bureau of Forestry: Schuylkill County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17044,PA055BF00,Bureau of Forestry: Snyder County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17068,PA056BF00,Bureau of Forestry: Somerset County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17073,PA057BF00,Bureau of Forestry: Sullivan County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17089,PA058BF00,Bureau of Forestry: Susquehanna County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17105,PA059BF00,Bureau of Forestry: Tioga County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17116,PA060BF00,Bureau of Forestry: Union County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17126,PA061BF00,Bureau of Forestry: Venango County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17137,PA062BF00,Bureau of Forestry: Warren County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17189,PA063BF00,Bureau of Forestry: Washington County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17199,PA064BF00,Bureau of Forestry: Wayne County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17251,PA065BF00,Bureau of Forestry: Westmoreland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17264,PA066BF00,Bureau of Forestry: Wyoming County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17310,PA067BF00,Bureau of Forestry: York County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15669,PA001DE00,Bureau of Narcotics: Adams County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15803,PA002DE00,Bureau of Narcotics: Allegheny County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15826,PA003DE00,Bureau of Narcotics: Armstrong County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15875,PA004DE00,Bureau of Narcotics: Beaver County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15885,PA005DE00,Bureau of Narcotics: Bedford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15942,PA006DE00,Bureau of Narcotics: Berks County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15963,PA007DE00,Bureau of Narcotics: Blair County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15976,PA008DE00,Bureau of Narcotics: Bradford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16030,PA009DE00,Bureau of Narcotics: Bucks County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16053,PA010DE00,Bureau of Narcotics: Butler County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16109,PA011DE00,Bureau of Narcotics: Cambria County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16114,PA012DE00,Bureau of Narcotics: Cameron County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16131,PA013DE00,Bureau of Narcotics: Carbon County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16146,PA014DE00,Bureau of Narcotics: Centre County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16202,PA015DE00,Bureau of Narcotics: Chester County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16213,PA016DE00,Bureau of Narcotics: Clarion County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16230,PA017DE00,Bureau of Narcotics: Clearfield County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16246,PA018DE00,Bureau of Narcotics: Clinton County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16278,PA019DE00,Bureau of Narcotics: Columbia County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16296,PA020DE00,Bureau of Narcotics: Crawford County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16322,PA021DE00,Bureau of Narcotics: Cumberland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16354,PA022DE00,Bureau of Narcotics: Dauphin County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16402,PA023DE00,Bureau of Narcotics: Delaware County,0,9D,"MSA counties under 10,000",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,16412,PA024DE00,Bureau of Narcotics: Elk County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16434,PA025DE00,Bureau of Narcotics: Erie County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16464,PA026DE00,Bureau of Narcotics: Fayette County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16468,PA027DE00,Bureau of Narcotics: Forest County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16479,PA028DE00,Bureau of Narcotics: Franklin County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16484,PA029DE00,Bureau of Narcotics: Fulton County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16494,PA030DE00,Bureau of Narcotics: Greene County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16501,PA031DE00,Bureau of Narcotics: Huntingdon County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16513,PA032DE00,Bureau of Narcotics: Indiana County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16526,PA033DE00,Bureau of Narcotics: Jefferson County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16533,PA034DE00,Bureau of Narcotics: Juniata County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16567,PA035DE00,Bureau of Narcotics: Lackawanna County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16621,PA036DE00,Bureau of Narcotics: Lancaster County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16641,PA037DE00,Bureau of Narcotics: Lawrence County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16667,PA038DE00,Bureau of Narcotics: Lebanon County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16688,PA039DE00,Bureau of Narcotics: Lehigh County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16748,PA040DE00,Bureau of Narcotics: Luzerne County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16763,PA041DE00,Bureau of Narcotics: Lycoming County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16777,PA042DE00,Bureau of Narcotics: Mckean County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16801,PA043DE00,Bureau of Narcotics: Mercer County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16812,PA044DE00,Bureau of Narcotics: Mifflin County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16827,PA045DE00,Bureau of Narcotics: Monroe County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16886,PA046DE00,Bureau of Narcotics: Montgomery County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16892,PA047DE00,Bureau of Narcotics: Montour County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16930,PA048DE00,Bureau of Narcotics: Northampton County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16948,PA049DE00,Bureau of Narcotics: Northumberland County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16959,PA050DE00,Bureau of Narcotics: Perry County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16964,PA051DE00,Bureau of Narcotics: Philadelphia County,0,9D,"MSA counties under 10,000",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,16974,PA052DE00,Bureau of Narcotics: Pike County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16984,PA053DE00,Bureau of Narcotics: Potter County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17037,PA054DE00,Bureau of Narcotics: Schuylkill County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17045,PA055DE00,Bureau of Narcotics: Snyder County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17069,PA056DE00,Bureau of Narcotics: Somerset County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17074,PA057DE00,Bureau of Narcotics: Sullivan County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17090,PA058DE00,Bureau of Narcotics: Susquehanna County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17106,PA059DE00,Bureau of Narcotics: Tioga County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17117,PA060DE00,Bureau of Narcotics: Union County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17127,PA061DE00,Bureau of Narcotics: Venango County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17138,PA062DE00,Bureau of Narcotics: Warren County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17190,PA063DE00,Bureau of Narcotics: Washington County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17200,PA064DE00,Bureau of Narcotics: Wayne County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17252,PA065DE00,Bureau of Narcotics: Westmoreland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17265,PA066DE00,Bureau of Narcotics: Wyoming County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17311,PA067DE00,Bureau of Narcotics: York County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16025,PA0095900,Bureau of State Parks Region 4,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,17152,PA0631300,Burgettstown,1374,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16805,PA0440200,Burnham,2047,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16907,PA0481300,Bushkill Township,8344,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16032,PA0100000,Butler,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16033,PA0100100,Butler,13577,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16034,PA0100200,"Butler Township, Butler County",17095,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16738,PA0405600,"Butler Township, Luzerne County",9427,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17016,PA0543100,"Butler Township, Schuylkill County",5850,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16586,PA0361700,Caernarvon Township,4772,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15911,PA0062400,"Caernarvon Township, Berks County",4030,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17147,PA0630700,California,7267,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17180,PA0634400,California University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23239,PA0102300,Callery,389,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16165,PA0151700,Caln Township,14090,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16055,PA0110000,Cambria ,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16075,PA0112000,Cambria Township,6025,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16284,PA0200300,Cambridge Springs,2383,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16111,PA0120000,Cameron,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16299,PA0210100,Camp Hill,7864,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16565,PA035389E,Canadian Pacific Railway,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,17141,PA0630100,Canonsburg,8982,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15967,PA0080200,Canton,1998,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16116,PA0130000,Carbon,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16536,PA0350100,Carbondale,8869,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16300,PA0210200,Carlisle,18928,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16489,PA0300200,Carmichaels,471,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15676,PA0020500,Carnegie,7958,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16076,PA0112100,Carrolltown,836,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17153,PA0631400,"Carroll Township, Washington County",5621,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17300,PA0674600,"Carroll Township, York County",6074,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15666,PA0012300,Carroll Valley,3896,6,"Cities from 2,500 thru 9,999",1,12,0,8,0,1,0
+2013,Pennsylvania,PA,17017,PA0543200,Cass Township,1934,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16240,PA0181000,Castanea Township,1192,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15764,PA0025700,Castle Shannon,8301,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16671,PA0390200,Catasauqua,6510,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16252,PA0190400,Catawissa,1527,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16265,PA0191800,Catawissa Township,933,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17154,PA0631500,Cecil Township,11683,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15845,PA0041800,Center Township,11775,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17155,PA0631600,Centerville,3236,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15921,PA0063500,Central Berks Regional,9493,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17053,PA0560600,Central City,1099,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16267,PA0192000,Centralia,10,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16133,PA0140000,Centre,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15765,PA0025800,Chalfant,801,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16002,PA0092600,Chalfont,4066,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16471,PA0280100,Chambersburg,20381,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23069,PA0636000,Charelroi Regional,6756,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17142,PA0630200,Charleroi,4078,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17156,PA0631700,Chartiers Township,7938,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16834,PA0460500,Cheltenham Township,36903,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16508,PA0320500,Cherry Tree,355,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16148,PA0150000,Chester,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16360,PA0230400,Chester,34037,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16219,PA0170500,Chester Hill,870,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16396,PA0234200,Chester Township,4132,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15766,PA0025900,Cheswick,1740,7,"Cities under 2,500",0,11,0,1,0,0,0
+2013,Pennsylvania,PA,16400,PA0235000,Cheyney University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15846,PA0041900,Chippewa Township,8152,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16587,PA0361800,Christiana,1172,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15767,PA0026000,Churchill,3007,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15677,PA0020600,Clairton,6761,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17136,PA0620900,Clarendon,443,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16205,PA0160100,Clarion,5117,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16204,PA0160000,Clarion,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16211,PA0160700,Clarion University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16795,PA0431800,Clark Borough,626,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16561,PA0352900,Clarks Green,1469,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16542,PA0350700,Clarks Summit,6588,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17157,PA0631800,Claysville,822,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16618,PA0365200,Clay Township,6557,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16216,PA0170100,Clearfield,6108,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16215,PA0170000,Clearfield,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16657,PA0381400,Cleona,2119,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16651,PA0380800,Cleona,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17083,PA0580800,Clifford Township,2380,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16361,PA0230500,Clifton Heights,6654,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16232,PA0180000,Clinton,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16756,PA0410600,Clinton Township,3774,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16507,PA0320400,Clymer,1339,7,"Cities under 2,500",0,2,0,0,0,0,0
+2013,Pennsylvania,PA,17158,PA0631900,Coal Center,139,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16999,PA0541300,Coaldale,2238,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16224,PA0171300,Coalport,514,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16938,PA0490600,Coal Township,10417,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16149,PA0150100,Coatesville,13144,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16285,PA0200500,Cochranton,1114,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17159,PA0632000,Cokeburg,630,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15912,PA0062500,Colebrookdale District,6037,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16588,PA0361900,Colerain-Little Britain,7896,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16139,PA0140600,College Township,9514,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16835,PA0460600,Collegeville,5161,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15682,PA0020B00,Collier Township,7543,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16362,PA0230600,Collingdale,8782,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16896,PA0480200,Colonial Regional,19575,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16570,PA0360100,Columbia,10375,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16248,PA0190000,Columbia,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16363,PA0230700,Colwyn,2544,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15873,PA0045500,Community College of Beaver County,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16057,PA0110200,"Conemaugh Township, Cambria County",1966,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17054,PA0560700,"Conemaugh Township, Somerset County",7175,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17277,PA0671200,Conewago Township,7805,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15654,PA0010300,"Conewago Township, Adams County",7099,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17131,PA0620200,Conewango Township,3495,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17055,PA0560800,Confluence,763,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16293,PA0201800,Conneaut Lake Regional,3538,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16286,PA0200700,Conneautville,758,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16438,PA0260200,Connellsville,7567,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16604,PA0363600,Conoy Township,3391,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16836,PA0460700,Conshohocken,7875,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15847,PA0042000,Conway,2164,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16719,PA0402900,Conyngham,1907,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16743,PA0406300,Conyngham Township,1456,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16266,PA0191900,Conyngham Township,754,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16819,PA0450500,Coolbaugh Township,20476,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16672,PA0390300,Coopersburg,2406,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16678,PA0390900,Coplay,3228,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15678,PA0020700,Coraopolis,5661,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16652,PA0380900,Cornwall,4188,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16415,PA0250100,Corry,6546,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16977,PA0530100,Coudersport,2554,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15831,PA0040300,County Detective: Beaver County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15932,PA0064900,County Detective: Berks County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16019,PA0094800,County Detective: Bucks County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16045,PA0101700,County Detective: Butler County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16188,PA0154500,County Detective: Chester County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16210,PA0160600,County Detective: Clarion County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16241,PA0181100,County Detective: Clinton County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16318,PA0212100,County Detective: Cumberland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16347,PA0222600,County Detective: Dauphin County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16428,PA0251600,County Detective: Erie County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16560,PA0352800,County Detective: Lackawanna County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16613,PA0364500,County Detective: Lancaster County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16661,PA0382100,County Detective: Lebanon County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16685,PA0391900,County Detective: Lehigh County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16737,PA0405500,County Detective: Luzerne County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23299,PA0421100,County Detective: McKean County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23235,PA0451000,County Detective: Monroe County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16878,PA0465200,County Detective: Montgomery County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23085,PA0470300,County Detective: Montour County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16969,PA0520300,County Detective: Pike County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17019,PA0543500,County Detective: Schuylkill County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17197,PA0640500,County Detective: Wayne County,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17241,PA0654400,County Detective: Westmoreland County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23104,PA0660500,County Detective: Wyoming County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17299,PA0674500,County Detective: York County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16741,PA0406100,Courtdale,735,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16564,PA0353300,Covington Township,2330,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15819,PA0031800,Cowanshannock Township ,2881,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15768,PA0026100,Crafton,6401,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16044,PA0101200,Cranberry Township,29062,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16281,PA0200000,Crawford,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15719,PA0021H00,Crescent Township,2643,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16062,PA0110700,Cresson,1668,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16987,PA0540100,Cressona,1639,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16077,PA0112300,Cresson Township,4278,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16096,PA0115300,Croyle Township,2304,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16298,PA0210000,Cumberland,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15656,PA0010500,"Cumberland Township, Adams County",6169,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16490,PA0300400,"Cumberland Township, Greene County",6493,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15890,PA0060300,Cumru Township,15222,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16218,PA0170300,Curwensville,2499,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16063,PA0110800,Dale,1203,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16692,PA0400100,Dallas,2808,6,"Cities from 2,500 thru 9,999",1,12,0,2,0,1,0
+2013,Pennsylvania,PA,17272,PA0670500,Dallastown,4019,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16735,PA0405000,Dallas Township,9075,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16548,PA0351500,Dalton,1233,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16554,PA0352200,Dalton,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16889,PA0470100,Danville,4648,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16364,PA0230800,Darby,10680,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16365,PA0230900,Darby Township,9274,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15872,PA0045400,Darlington Township,1966,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15848,PA0042100,Daugherty Township,3172,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16348,PA0222700,Dauphin,790,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16324,PA0220000,Dauphin,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16445,PA0260900,Dawson,363,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16104,PA0116200,Dean Township,379,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16225,PA0171400,Decatur Township,4519,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17004,PA0541800,Delano Township,438,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16356,PA0230000,Delaware,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16399,PA0234800,Delaware County District Attorney Criminal Investigation Division,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16397,PA0234400,Delaware County Park,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16815,PA0450100,Delaware Water Gap,728,7,"Cities under 2,500",0,4,0,0,0,0,0
+2013,Pennsylvania,PA,17237,PA0653800,Delmont,2652,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16589,PA0362000,Denver,3867,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16352,PA0223800,Department of Environmental Resources,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,17217,PA0651500,Derry,2644,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16806,PA0440300,Derry Township,7343,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16339,PA0221500,"Derry Township, Dauphin County",24838,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16320,PA0212600,Dickinson College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16543,PA0350800,Dickson City,6061,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17278,PA0671400,Dillsburg,2569,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17160,PA0632100,Donegal Township,2467,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17146,PA0630600,Donora,4735,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15679,PA0020800,Dormont,8573,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15920,PA0063400,"Douglass Township, Berks County",3337,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16875,PA0464900,"Douglass Township, Montgomery County",10345,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17307,PA067610X,Dover Borough,1995,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17303,PA0675000,Dover Township,21241,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16150,PA0150200,Downingtown,7932,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15982,PA0090400,Doylestown,8361,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16003,PA0092700,Doylestown Township,17575,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15769,PA0026200,Dravosburg,1783,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17198,PA0640600,Dreher Township,1369,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16024,PA0095700,Dublin Borough,2155,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16217,PA0170200,Du Bois,7685,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16759,PA0411000,Duboistown,1205,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16446,PA0261000,Dunbar,1029,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16953,PA0500200,Duncannon,1500,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15952,PA0070800,Duncansville,1226,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16537,PA0350200,Dunmore,14074,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16236,PA0180500,Dunnstable Township,1017,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16693,PA0400200,Dupont,2718,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15680,PA0020900,Duquesne,5555,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16694,PA0400300,Duryea,4936,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17072,PA0570100,Dushore,612,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16590,PA0362100,Earl Township,7130,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16908,PA0481400,East Bangor,1432,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15659,PA0010800,East Berlin,1521,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17161,PA0632200,East Bethlehem Township,2331,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16207,PA0160300,East Brady,928,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16192,PA0154900,East Brandywine Township,7461,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17111,PA0600200,East Buffalo Township,6390,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16105,PA0116300,East Carroll,1631,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16605,PA0363700,East Cocalico Township,10399,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16064,PA0110900,East Conemaugh,1503,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16191,PA0154800,East Coventry Township,6765,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15683,PA0020C00,East Deer Township,1494,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16607,PA0363900,East Earl Township,6659,6,"Cities from 2,500 thru 9,999",1,12,0,2,0,1,0
+2013,Pennsylvania,PA,15663,PA0011800,Eastern Adams Regional,7315,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2013,Pennsylvania,PA,16970,PA0520400,Eastern Pike Regional,4715,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16169,PA0152100,East Fallowfield Township,7549,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15822,PA0032200,East Franklin Township,4042,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16591,PA0362300,East Hempfield Township,23935,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16608,PA0364000,East Lampeter Township,16780,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16366,PA0231000,East Lansdowne,2661,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16199,PA0156200,East Marlborough Township,7196,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15770,PA0026300,East McKeesport,2709,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16837,PA0460800,East Norriton Township,14107,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17033,PA0545100,East Norwegian Township,852,7,"Cities under 2,500",1,12,0,5,0,1,0
+2013,Pennsylvania,PA,16898,PA0480400,Easton,27001,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16928,PA0484100,Easton Area School District,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16301,PA0210300,East Pennsboro Township,20886,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16128,PA0131500,East Penn Township,2859,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16592,PA0362400,East Petersburg,4515,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16177,PA0153200,East Pikeland Township,7300,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15771,PA0026400,East Pittsburgh,1818,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15858,PA0043400,East Rochester,560,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16004,PA0092800,East Rockhill Township,5733,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16816,PA0450200,East Stroudsburg,9876,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16824,PA0451100,East Stroudsburg University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16078,PA0112600,East Taylor Township,2661,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16151,PA0150300,Easttown Township,10564,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17035,PA0545300,East Union Township,1615,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17238,PA0653900,East Vandergrift,665,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16178,PA0153300,East Vincent Township,6858,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17162,PA0632300,East Washington,2218,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16152,PA0150400,East Whiteland Township,10654,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16058,PA0110300,Ebensburg,3279,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15838,PA0041100,Economy,9107,6,"Cities from 2,500 thru 9,999",1,12,0,3,0,1,0
+2013,Pennsylvania,PA,16367,PA0231100,Eddystone,2410,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15739,PA0023100,Edgewood,3107,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15772,PA0026500,Edgeworth,1682,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16423,PA0250900,Edinboro,6450,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16429,PA0251700,Edinboro University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16695,PA0400400,Edwardsville,4798,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23500,PA0032800,Elderton,356,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16079,PA0112800,Elder Township ,1022,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15773,PA0026600,Elizabeth,2001,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16571,PA0360200,Elizabethtown,11562,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16616,PA0365000,Elizabethtown College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15684,PA0020D00,Elizabeth Township,13298,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16325,PA0220100,Elizabethville,1499,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16404,PA0240000,Elk,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17096,PA0590400,Elkland,1835,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17066,PA0562500,Elk Lick Township,2211,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17182,PA0634600,Ell-Co Regional,1015,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16624,PA0370100,Ellwood City,7739,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16196,PA0155400,Elverson,1284,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17124,PA0611100,Emlenton Borough,612,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16673,PA0390400,Emmaus,11338,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16112,PA0120100,Emporium,1995,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15774,PA0026700,Emsworth,2447,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16572,PA0360300,Ephrata,13541,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16573,PA0360400,Ephrata Township,10140,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16414,PA0250000,Erie,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16416,PA0250200,Erie,100814,2,"Cities from 100,000 thru 249,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16432,PA025240X,Erie City School District,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16431,PA0252200,Erie Municipal Airport Authority,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15775,PA0026800,Etna,3440,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16039,PA0100700,Evans City,1808,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15879,PA0050200,Everett,1786,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16447,PA0261100,Everson,785,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16708,PA0401700,Exeter,5638,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15891,PA0060400,"Exeter Township, Berks County",25749,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16731,PA0404400,"Exeter Township, Luzerne County",2381,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17255,PA0660100,Factoryville,1235,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16448,PA0261200,Fairchance,1956,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15665,PA0012200,Fairfield,506,7,"Cities under 2,500",1,12,0,3,0,1,0
+2013,Pennsylvania,PA,16292,PA0201700,Fairfield Township,1005,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16962,PA0510100,Fairmont Park,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16424,PA0251000,Fairview,10221,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16720,PA0403100,"Fairview Township, Luzerne County",4525,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17273,PA0670600,"Fairview Township, York County",16915,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17163,PA0632400,Fallowfield Township,4305,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16521,PA0330600,Falls Creek,1023,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15983,PA0090500,"Falls Township, Bucks County",34234,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17260,PA0660800,"Falls Township, Wyoming County",1957,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15694,PA0020P00,Fawn Township,2380,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16436,PA0260000,Fayette,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16449,PA0261300,Fayette City,591,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16557,PA0352500,Fell Township,2172,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17309,PA067630X,Felton Boro,510,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16140,PA0140700,Ferguson Township,17807,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16080,PA0112900,Ferndale,1592,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15695,PA0020R00,Findlay Township,5201,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15892,PA0060500,Fleetwood,4086,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16238,PA0180700,Flemington,1344,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16368,PA0231200,Folcroft,6612,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15807,PA0030200,Ford City,2938,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16466,PA0270000,Forest,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17078,PA0580200,Forest City,1859,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15703,PA0021000,Forest Hills,6510,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16909,PA0481500,Forks Township,15131,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17188,PA063570X,Fort Cherry School District,0,7,"Cities under 2,500",0,8,0,0,0,0,0
+2013,Pennsylvania,PA,16665,PA0382500,Fort Indiantown Gap,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16709,PA0401800,Forty Fort,4186,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15696,PA0020S00,Forward Township,3375,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16770,PA0420500,Foster Township,4287,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23146,PA0545700,Foster Township,253,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16674,PA0390500,Fountain Hill,4631,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15776,PA0026900,Fox Chapel,5415,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16988,PA0540200,Frackville,3757,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16877,PA0465100,Franconia Township,13245,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17120,PA0610100,Franklin,6415,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16470,PA0280000,Franklin,0,9D,"MSA counties under 10,000",1,12,0,8,0,1,0
+2013,Pennsylvania,PA,16081,PA0113000,Franklin Boro,314,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15777,PA0027000,Franklin Park,14027,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17281,PA0671700,Franklin Township,4945,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16271,PA0192500,Franklin Township,588,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15860,PA0043600,"Franklin Township, Beaver County",4041,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16123,PA0130800,"Franklin Township, Carbon County",4236,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15736,PA0022A00,Frazer Township,1155,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15839,PA0041200,Freedom,1553,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15959,PA0071800,Freedom Township,3466,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16696,PA0400500,Freeland,3509,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16922,PA0483100,Freemansburg,2624,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15808,PA0030300,Freeport,1785,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16481,PA0290000,Fulton,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17103,PA0591800,Gaines Township,558,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16978,PA0530200,Galeton,1157,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16065,PA0111000,Gallitzin,1880,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16100,PA0115800,Gallitzin Township,1303,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17065,PA0562100,Garrett,447,7,"Cities under 2,500",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,16066,PA0111100,Geistown,2410,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16450,PA0261400,German Township,5044,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15652,PA0010100,Gettysburg,7653,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17000,PA0541400,Gilberton,759,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15816,PA0031300,Gilpin Township,2479,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16425,PA0251100,Girard,3068,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16989,PA0540300,Girardville,1501,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15740,PA0023200,Glassport,4466,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16369,PA0231300,Glenolden,7158,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15786,PA0028200,Glen Osborne,544,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17294,PA0673500,Glen Rock,2018,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17005,PA0541900,Gordon,754,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16808,PA0440700,Granville Township,5108,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25287,PA0581900,Great Bend,713,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16472,PA0280200,Greencastle,4025,6,"Cities from 2,500 thru 9,999",1,12,0,8,0,1,0
+2013,Pennsylvania,PA,16487,PA0300000,Greene,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16796,PA0432000,Greene Township,1079,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16562,PA0353000,Greenfield Township,2098,7,"Cities under 2,500",0,2,0,0,0,0,0
+2013,Pennsylvania,PA,15955,PA0071100,"Greenfield Township, Blair County",4165,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17204,PA0650200,Greensburg,14689,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15704,PA0021100,Green Tree,4431,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16781,PA0430200,Greenville,5890,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16275,PA0192900,Greenwood Township,1927,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16782,PA0430300,Grove City,8206,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16340,PA0221600,Halifax,837,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16344,PA0222200,Halifax Township,3588,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17282,PA0671900,Hallam,2659,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17082,PA0580600,Hallstead,1281,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15893,PA0060600,Hamburg,4283,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15657,PA0010600,Hamiltonban Township,2368,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16302,PA0210400,Hampden Township,28360,4,"Cities from 25,000 thru 49,999",1,12,0,8,0,1,0
+2013,Pennsylvania,PA,15741,PA0023300,Hampton Township,18478,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17268,PA0670100,Hanover,15362,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16697,PA0400600,"Hanover Township, Luzerne County",11075,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17177,PA0633900,"Hanover Township, Washington County",2666,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,15697,PA0020T00,Harmar Township,3007,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15840,PA0041300,Harmony Township,3157,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16326,PA0220200,Harrisburg,49203,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16350,PA0223200,Harrisburg International Airport,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15685,PA0020E00,Harrison Township,10471,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16141,PA0140800,Harris Township,5135,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16050,PA0102900,Harrisville,900,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17115,PA0600800,Hartleton,284,7,"Cities under 2,500",0,6,0,0,0,0,0
+2013,Pennsylvania,PA,16728,PA0404000,Harveys Lake,2800,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16082,PA0113100,Hastings,2274,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16838,PA0460900,Hatboro,7387,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16867,PA0464000,Hatfield,3305,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16868,PA0464100,Hatfield Township,20890,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16370,PA0231400,Haverford Township,48717,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17194,PA0640200,Hawley,1174,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16698,PA0400700,Hazleton,25191,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17001,PA0541500,Hegins Township,3501,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15778,PA0027300,Heidelberg,1246,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16653,PA0381000,Heidelberg Township,4147,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15930,PA0064400,"Heidelberg Township, Berks County",1738,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17283,PA0672000,Hellam Township,8691,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16899,PA0480500,Hellertown,5857,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16261,PA0191400,Hemlock Township,2246,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17240,PA0654300,Hempfield Township,43104,4,"Cities from 25,000 thru 49,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16788,PA0430900,"Hempfield Township, Mercer County",3777,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16783,PA0430400,Hermitage,16163,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16637,PA0371900,Hickory Township ,2443,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16179,PA0153400,Highland Township,1288,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16334,PA0221000,Highspire,2384,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16005,PA0092900,Hilltown Township,15199,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15946,PA0070200,Hollidaysburg,5836,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16505,PA0320200,Homer City,1682,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15705,PA0021200,Homestead,3152,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17193,PA0640100,Honesdale,4294,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16176,PA0152900,Honey Brook,1749,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16186,PA0154200,Honey Brook Township,7919,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17056,PA0560900,Hooversville,632,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17087,PA0581500,Hop Bottom Borough,324,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15883,PA0050700,Hopewell,254,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15841,PA0041400,Hopewell Township,12595,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16839,PA0461000,Horsham Township,26397,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17164,PA0632600,Houston,1289,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16220,PA0170600,Houtzdale,785,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17024,PA0544000,Hubley Township,846,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16744,PA0406500,Hughestown,1397,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16757,PA0410800,Hughesville,2150,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16001,PA0092500,Hulmeville ,1011,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16327,PA0220300,Hummelstown,4517,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16497,PA0310100,Huntingdon,7068,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16496,PA0310000,Huntingdon,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,17245,PA0655100,Hyde Park,491,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15880,PA0050300,Hyndman,892,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17165,PA0632700,Independence Township,1544,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15849,PA0042300,"Independence Township, Beaver County",2487,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16503,PA0320000,Indiana,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16506,PA0320300,Indiana,13942,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15698,PA0020V00,Indiana Township,7324,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16510,PA0321000,Indiana University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17061,PA0561700,Indian Lake,394,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15850,PA0042400,Industry,1815,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,15779,PA0027400,Ingram,3319,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16227,PA0171700,Irvona,635,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17205,PA0650300,Irwin,3921,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16022,PA0095200,Ivyland,1041,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17284,PA0672100,Jackson Township,7581,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16048,PA0102200,"Jackson Township, Butler County",3643,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16083,PA0113200,"Jackson Township, Cambria County",4297,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16729,PA0404100,"Jackson Township, Luzerne County",4615,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,17304,PA0675300,Jacobus Boro,1827,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16797,PA0432100,Jamestown,605,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16409,PA0240600,Jay Township,2029,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17206,PA0650400,Jeannette,9493,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16515,PA0330000,Jefferson,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15780,PA0027500,Jefferson Hills Borough,11102,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15936,PA0065500,Jefferson Township,1993,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,23298,PA0635300,Jefferson Township,1168,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16457,PA0262300,Jefferson Township,1996,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,25286,PA0353600,Jefferson Township,3775,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16794,PA0431500,"Jefferson Township, Mercer County",1862,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16732,PA0404500,Jenkins Township,4477,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16840,PA0461100,Jenkintown,4449,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17058,PA0561100,Jennerstown,683,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17057,PA0561000,Jenner Township,4034,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16544,PA0350900,Jermyn,2165,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16549,PA0351600,Jessup,4653,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16117,PA0130200,Jim Thorpe,4734,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16405,PA0240100,Johnsonburg,2435,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16059,PA0110400,Johnstown,21954,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16410,PA0240700,Jones Township,1605,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16528,PA0340000,Juniata,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16499,PA0310400,Juniata Valley Regional,2779,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2013,Pennsylvania,PA,16767,PA0420200,Kane,3681,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15894,PA0060700,Kenhorst ,2870,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15686,PA0020F00,Kennedy Township,7848,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16153,PA0150500,Kennett Square,6126,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16200,PA0156500,Kennett Township,7885,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16124,PA0130900,Kidder Township,1947,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15699,PA0020W00,Kilbuck Township,702,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16699,PA0400800,Kingston,13117,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16736,PA0405100,Kingston Township,7035,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15811,PA0030800,Kiskiminetas Township,4738,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15809,PA0030400,Kittanning,3966,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17022,PA0543800,Kline Township,1422,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16208,PA0160400,Knox,1141,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15857,PA0043300,Koppel,754,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16939,PA0490700,Kulpmont,2898,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15895,PA0060800,Kutztown,5003,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15937,PA0065700,Kutztown University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17261,PA0660900,Laceyville,371,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16535,PA0350000,Lackawanna,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16742,PA0406200,Laflin Borough,1486,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16426,PA0251200,Lake City,3020,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16721,PA0403200,Lake Township,2065,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16243,PA0181500,Lamar Township,2547,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16574,PA0360500,Lancaster,59370,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16569,PA0360000,Lancaster ,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16049,PA0102500,"Lancaster Township, Butler County",2534,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16581,PA0361200,"Lancaster Township, Lancaster County",17084,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17079,PA0580300,Lanesboro,493,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16027,PA0096100,Langhorne Borough,1616,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16013,PA0094100,Langhorne Manor ,1439,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16841,PA0461200,Lansdale,16395,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16371,PA0231500,Lansdowne,10621,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16118,PA0130300,Lansford,3876,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16710,PA0401900,Larksville,4463,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15667,PA0012400,Latimore Township,2582,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17207,PA0650500,Latrobe,8204,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15896,PA0060900,Laureldale,3905,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16623,PA0370000,Lawrence ,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16420,PA0250600,Lawrence Park Township,3933,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16223,PA0171100,"Lawrence Township, Clearfield County",7583,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17097,PA0590600,"Lawrence Township, Tioga County",1748,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23102,PA0591100,Lawrenceville,622,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16643,PA0380000,Lebanon,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16645,PA0380200,Lebanon,25583,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15649,PA0003800,Lebanon-Bureau of Narcotics Investigation,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15810,PA0030500,Leechburg,2110,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15897,PA0061000,Leesport,1919,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15781,PA0027600,Leetsdale,1214,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15720,PA0021I00,Leet Township,1631,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16669,PA0390000,Lehigh,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16119,PA0130400,Lehighton,5417,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17196,PA0640400,Lehigh Township,1809,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16900,PA0480600,"Lehigh Township, Northampton County",10482,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16925,PA048359E,Lehigh University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16686,PA0392100,Lehigh Valley International Airport,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16722,PA0403300,Lehman Township,3518,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17110,PA0600100,Lewisburg,5754,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16774,PA0421200,Lewis Run,609,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16810,PA0441200,Lewistown,8370,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15782,PA0027700,Liberty,2549,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15661,PA0011200,"Liberty Township, Adams County",1240,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15882,PA0050600,"Liberty Township, Bedford County",1332,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,17228,PA0652700,Ligonier,1547,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17218,PA0651700,Ligonier Township,6541,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16084,PA0113300,Lilly,950,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16879,PA0465300,Limerick Township,18619,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15783,PA0027800,Lincoln,1073,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16190,PA0154700,Lincoln University,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16287,PA0200800,Linesville,1016,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16346,PA0222500,Liquor Control Board,0,7,"Cities under 2,500",0,0,0,0,1,0,0
+2013,Pennsylvania,PA,16575,PA0360600,Lititz,9389,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16639,PA0372100,Little Beaver Township ,1389,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17084,PA0581100,Little Meadows,268,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15653,PA0010200,Littlestown,4434,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16233,PA0180100,Lock Haven,9806,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16242,PA0181200,Lock Haven University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16262,PA0191500,Locust Township,2540,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15947,PA0070300,Logan Township,12340,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17166,PA0632800,Long Branch,444,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16085,PA0113500,Loretto,1390,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16304,PA0210600,Lower Allen Township,18040,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17208,PA0650600,Lower Burrell,11605,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16372,PA0231600,Lower Chichester Township,3470,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16869,PA0464200,Lower Frederick Township,4883,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16842,PA0461300,Lower Gwynedd Township,11546,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15922,PA0063600,Lower Heidelberg Township,5630,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16946,PA0491900,Lower Mahanoy Township,473,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15984,PA0090700,Lower Makefield Township,32667,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16843,PA0461400,Lower Merion Township,58226,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16684,PA0391500,Lower Milford Township,3832,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16679,PA0391000,Lower Milford Township,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16844,PA0461500,Lower Moreland Township,13122,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16910,PA0481600,Lower Mount Bethel Township,3095,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16328,PA0220400,Lower Paxton Township,47692,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16845,PA0461600,Lower Pottsgrove Township,12156,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16846,PA0461700,Lower Providence Township,25672,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16870,PA0464300,Lower Salford Township,15319,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16911,PA0481700,Lower Saucon Township,10803,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15985,PA0090800,Lower Southampton Township,19027,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16341,PA0221700,Lower Swatara Township,8331,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17306,PA0676000,Lower Windsor Township,7404,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16092,PA0114800,Lower Yoder Township,2638,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17219,PA0651800,Loyalhanna Township,2349,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16700,PA0400900,Luzerne,2853,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16691,PA0400000,Luzerne,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16451,PA0261500,Luzerne Township,5981,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16750,PA0410000,Lycoming,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16335,PA0221100,Lykens,1771,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16037,PA0100500,Lyndora,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16681,PA0391200,Macungie,3114,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16272,PA0192600,Madison Township,1608,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16991,PA0540500,Mahanoy City,4106,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17006,PA0542000,Mahanoy Township,3246,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16125,PA0131000,"Mahoning Township, Carbon County",4279,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16638,PA0372000,"Mahoning Township, Lawrence County",3014,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16890,PA0470200,"Mahoning Township, Montour County",4212,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15914,PA0062700,Maiden Creek Township,9296,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16268,PA0192200,Main Township,1305,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16154,PA0150600,Malvern,3041,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17305,PA0675800,Manchester,2759,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17308,PA067620X,Manchester Township,18329,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16576,PA0360700,Manheim,4861,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16577,PA0360800,Manheim Township,38857,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17239,PA0654000,Manor,3282,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15817,PA0031400,"Manor Township, Armstrong County",4235,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16593,PA0362500,"Manor Township, Lancaster County",20106,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17094,PA0590200,Mansfield,3629,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17099,PA0590900,Mansfield University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16376,PA0232000,Marcus Hook,2394,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17175,PA0633700,Marianna,489,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16578,PA0360900,Marietta,2589,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16511,PA0321500,Marion Center Borough,441,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15865,PA0044400,"Marion Township, Beaver County",912,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15935,PA0065400,"Marion Township, Berks County",1768,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16882,PA0465700,Marlborough Township,3288,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16373,PA0231700,Marple Township,23554,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16040,PA0100800,Mars,1681,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15724,PA0021R00,Marshall Township,7360,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15953,PA0070900,Martinsburg,1946,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16952,PA0500100,Marysville,2516,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16441,PA0260500,Masontown,3419,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16967,PA0520100,Matamoras,2421,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16550,PA0351700,Mayfield,1795,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16990,PA0540400,McAdoo,2257,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15742,PA0023400,McCandless,28792,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16482,PA0290100,McConnellsburg,1202,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17149,PA0630900,McDonald Borough,2131,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16765,PA0420000,McKean,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15706,PA0021300,McKeesport,21456,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15707,PA0021400,McKees Rocks,6086,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15655,PA0010400,McSherrystown,3036,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17135,PA0620800,Mead Township,1358,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16282,PA0200100,Meadville,13227,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16305,PA0210700,Mechanicsburg,8962,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17007,PA0542100,Mechanicsville ,453,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16374,PA0231800,Media,5337,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17259,PA0660600,Mehoopany Township,907,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16452,PA0261600,Menallen Township,4163,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16779,PA0430000,Mercer,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16784,PA0430500,Mercer,1967,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16474,PA0280400,Mercersburg,1555,7,"Cities under 2,500",0,11,0,1,0,0,0
+2013,Pennsylvania,PA,17256,PA0660200,Meshoppen,1479,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17048,PA0560100,Meyersdale,2135,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17041,PA0550200,Middleburg,1290,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16038,PA0100600,Middlesex Township,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16041,PA0100900,"Middlesex Township, Butler County",5448,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16311,PA0211300,"Middlesex Township, Cumberland County",7235,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16086,PA0113600,Middle Taylor Township,713,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16329,PA0220500,Middletown,8866,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,15986,PA0090900,Middletown Township,45526,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15834,PA0040600,Midland,2600,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17176,PA0633800,Midway,906,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16803,PA0440000,Mifflin,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16529,PA0340400,Mifflin,642,7,"Cities under 2,500",0,9,0,0,0,0,0
+2013,Pennsylvania,PA,17112,PA0600300,Mifflinburg,3518,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16804,PA0440100,Mifflin County Regional,16944,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16530,PA0340500,Mifflintown,942,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16257,PA0191000,Mifflin Township,2295,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16137,PA0140400,Milesburg,1111,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16968,PA0520200,Milford,1002,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16971,PA0520500,Milford Township,1501,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16375,PA0231900,Millbourne,1163,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16417,PA0250300,"Millcreek Township, Erie County",54268,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16664,PA0382400,"Millcreek Township, Lebanon County",5513,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16336,PA0221200,Millersburg,2539,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16582,PA0361300,Millersville,8327,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16617,PA0365100,Millersville University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16239,PA0180900,Mill Hall,1622,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15708,PA0021500,Millvale,3733,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16254,PA0190600,Millville,944,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16933,PA0490100,Milton,7024,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16992,PA0540600,Minersville,4313,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15898,PA0061100,Mohnton,3047,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15842,PA0041500,Monaca,5743,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17209,PA0650700,Monessen,7596,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17143,PA0630300,Monongahela,4254,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16814,PA0450000,Monroe,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15709,PA0021600,Monroeville,28401,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16475,PA0280500,Mont Alto,1730,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16829,PA0460000,Montgomery,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16758,PA0410900,Montgomery,1583,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16847,PA0461800,Montgomery Township,25675,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16888,PA0470000,Montour,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16752,PA0410200,Montoursville,4631,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16259,PA0191200,Montour Township,1331,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17080,PA0580400,Montrose,1571,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15743,PA0023500,Moon Township,24987,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16912,PA0481800,Moore Township,9247,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16555,PA0352300,Moosic,5741,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16926,PA048369E,Moravian College,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16226,PA0171600,Morris-Cooper Regional,5609,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15987,PA0091000,Morrisville,8692,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16377,PA0232100,Morton,2679,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16551,PA0351800,Moscow,2022,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16934,PA0490200,Mount Carmel,5841,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16945,PA0491800,Mount Carmel Township,3124,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16654,PA0381100,Mount Gretna Borough,198,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16312,PA0211400,Mount Holly Springs,2029,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16771,PA0420600,Mount Jewett,910,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16579,PA0361000,Mount Joy,7984,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15710,PA0021700,Mount Lebanon,33093,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15784,PA0027900,Mount Oliver,3392,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15899,PA0061200,Mount Penn,3201,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17210,PA0650800,Mount Pleasant,4446,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17178,PA0634000,Mount Pleasant Township,3533,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16820,PA0450600,Mount Pocono Borough,3118,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16498,PA0310200,Mount Union,2411,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16614,PA0364700,Mountville ,2834,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17295,PA0673600,Mount Wolf,1381,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15900,PA0061300,Muhlenberg Township,19867,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16753,PA0410300,Muncy,2480,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23945,PA0411700,Muncy Township,1115,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15744,PA0023600,Munhall,11373,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17203,PA0650100,Murrysville,20262,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16648,PA0380500,Myerstown,3112,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16701,PA0401000,Nanticoke,10406,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16067,PA0111200,Nanty Glo,2669,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16863,PA0463500,Narberth,4299,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16901,PA0480700,Nazareth ,5713,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17104,PA0591900,Nelson Township,587,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16723,PA0403400,Nescopeck,1570,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16628,PA0370500,Neshannock Township,9474,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16126,PA0131100,Nesquehoning,3308,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16378,PA0232200,Nether Providence Township,13758,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15700,PA0020X00,Neville Township,1080,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16636,PA0371800,New Beaver,1475,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17113,PA0600600,New Berlin,866,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17301,PA0674700,Newberry Township,15361,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16206,PA0160200,New Bethlehem,2835,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15843,PA0041600,New Brighton,9145,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16012,PA0093900,New Britain,3147,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16006,PA0093200,New Britain Township,11075,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16625,PA0370200,New Castle,22729,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17030,PA0544800,New Castle Township,405,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16306,PA0210800,New Cumberland,7253,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17148,PA0630800,New Eagle,2165,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16460,PA0262800,Newell,536,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17232,PA0653300,New Florence,676,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17285,PA0672300,New Freedom,4541,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15866,PA0044800,New Galilee Borough,372,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16180,PA0153500,New Garden Township,12109,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16880,PA0465400,New Hanover Township,11943,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16580,PA0361100,New Holland,5416,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15988,PA0091100,New Hope,2522,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17212,PA0651000,New Kensington,12916,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15658,PA0010700,New Oxford,1783,7,"Cities under 2,500",0,0,0,0,1,1,1
+2013,Pennsylvania,PA,17002,PA0541600,New Philadelphia,1072,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16954,PA0500300,Newport,1559,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16711,PA0402000,Newport Township,5481,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15861,PA0043800,New Sewickley Township,7526,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16558,PA0352600,Newton Township,2865,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16026,PA0096000,Newtown,2240,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15989,PA0091200,"Newtown Township, Bucks County",22596,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16379,PA0232300,"Newtown Township, Delaware County",12292,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16317,PA0211900,Newville,1326,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16629,PA0370600,New Wilmington,2468,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17257,PA0660300,Nicholson,751,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16014,PA0094200,Nockamixon Township,3442,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16848,PA0461900,Norristown,34453,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16902,PA0480800,Northampton,9937,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16894,PA0480000,Northampton,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15990,PA0091300,Northampton Township,39772,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23943,PA0381500,North Annville Township,2423,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15812,PA0030900,North Apollo,1276,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16630,PA0370700,North Beaver ,4066,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17220,PA0651900,North Belle Vernon,1936,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17186,PA0635400,North Bethlehem Township,1623,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15745,PA0023800,North Braddock,4844,6,"Cities from 2,500 thru 9,999",0,10,0,0,0,0,0
+2013,Pennsylvania,PA,15818,PA0031500,North Buffalo ,2996,6,"Cities from 2,500 thru 9,999",0,6,0,0,0,0,0
+2013,Pennsylvania,PA,16913,PA0481900,North Catasauqua,2838,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16260,PA0191300,North Centre Township ,2101,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17167,PA0632900,North Charleroi,1302,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16655,PA0381200,North Cornwall Township,7734,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16155,PA0150700,North Coventry Township,7942,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16418,PA0250400,North East,4248,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17280,PA0671600,Northeastern Regional,11477,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15973,PA0081200,Northeast Police Department,434,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15915,PA0062800,Northern Berks Regional,12954,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16056,PA0110100,Northern Cambria Borough,3741,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23086,PA0365800,Northern Lancaster County Regional,33488,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15714,PA0021B00,Northern Regional,32008,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17279,PA0671500,Northern York Regional,67657,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15701,PA0020Y00,North Fayette Township,14093,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17168,PA0633000,North Franklin Township,4590,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23223,PA0675100,North Hopewell Township,2799,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17211,PA0650900,North Huntingdon Township,30787,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17233,PA0653400,North Irwin,834,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16656,PA0381300,North Lebanon Township,11642,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16658,PA0381600,North Londonderry Township,8243,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16313,PA0211500,North Middleton Township,11314,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15844,PA0041700,North Sewickley Township,5629,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17179,PA0634100,North Strabane Township,13833,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16932,PA0490000,Northumberland,0,8D,"Non-MSA counties under 10,000",0,4,0,0,0,0,0
+2013,Pennsylvania,PA,16935,PA0490300,Northumberland,3780,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17026,PA0544200,North Union Township,1460,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15746,PA0023900,North Versailles Township,12383,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16849,PA0462000,North Wales,3239,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16594,PA0362600,Northwest Lancaster County Regional,18776,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23044,PA0071700,North Woodbury,2717,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17287,PA0672600,North York Borough,1912,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17025,PA0544100,Norwegian Township,2289,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16380,PA0232400,Norwood,5891,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15785,PA0028000,Oakdale,1456,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17081,PA0580500,Oakland,600,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15711,PA0021800,Oakmont,6406,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15646,PA0001000,Ode: Adams County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15647,PA0001900,Ode: Columbia County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15648,PA0003500,Ode: Lackawana County,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15702,PA0020Z00,O'Hara Township,8453,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15713,PA0021A00,Ohio Township,5917,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15870,PA0045200,Ohioville,3514,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17121,PA0610200,Oil City,10320,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16538,PA0350300,Old Forge,8281,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16760,PA0411500,Old Lycoming Township,5049,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15923,PA0063700,Oley Township,3673,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16957,PA0501400,Oliver Township,1922,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16545,PA0351100,Olyphant,5199,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16269,PA0192300,Orange Township,1246,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16270,PA0192400,Orangeville Area,1746,7,"Cities under 2,500",1,12,0,4,0,1,0
+2013,Pennsylvania,PA,17008,PA0542200,Orwigsburg,3053,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16221,PA0170700,Osceola Mills,1120,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17102,PA0591700,Osceola Township,666,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16772,PA0420700,Otto Eldred Regional,2372,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17262,PA0661100,Overfield Township,2883,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16156,PA0150800,Oxford,5129,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17060,PA0561300,Paintboro Windber,985,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17064,PA0562000,Paint Township,5237,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16120,PA0130500,Palmerton,5362,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16903,PA0480900,Palmer Township,20845,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16646,PA0380300,Palmyra,7449,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17009,PA0542300,Palo Alto,1020,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17296,PA0674000,Paradise Township,3849,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15823,PA0032300,Parker,837,7,"Cities under 2,500",0,2,0,0,0,0,0
+2013,Pennsylvania,PA,16157,PA0150900,Parkesburg,3638,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16398,PA0234500,Parkside,2325,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15813,PA0031000,Parks Township,2707,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15851,PA0042500,Patterson Township,2999,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16068,PA0111300,Patton,1726,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16142,PA0140900,Patton Township,15513,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16330,PA0220600,Paxtang,1550,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16905,PA0481100,Pen Argyl,3570,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16337,PA0221300,Penbrook,2985,6,"Cities from 2,500 thru 9,999",1,12,0,5,0,1,0
+2013,Pennsylvania,PA,17234,PA0653500,Penn,489,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15991,PA0091400,Penndel,2232,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15712,PA0021900,Penn Hills,42295,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15994,PA0091700,Pennridge Regional,11039,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16351,PA0223400,Pennsylvania Fish and Boat Commission,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15956,PA0071400,Pennsylvania State University: Altoona,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15871,PA0045300,Pennsylvania State University: Beaver,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16430,PA0251900,Pennsylvania State University: Behrend,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15938,PA0065900,Pennsylvania State University: Berks,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16349,PA0222800,Pennsylvania State University: Harrisburg,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16745,PA0407100,Pennsylvania State University: Hazleton,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15723,PA0021P00,Pennsylvania State University: McKeesport,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16477,PA0281000,Pennsylvania State University: Mont Alto,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17034,PA0545200,Pennsylvania State University: Schuylkill,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16143,PA0141100,Pennsylvania State University: University Park,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16042,PA0101000,"Penn Township, Butler County",5055,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16609,PA0364100,"Penn Township, Lancaster County",9057,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16956,PA0501100,"Penn Township, Perry County",3187,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17213,PA0651100,"Penn Township, Westmoreland County",19870,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17297,PA0674100,"Penn Township, York County",15688,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16595,PA0362700,Pequea Township,4626,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15992,PA0091500,Perkasie,8527,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16881,PA0465500,Perkiomen Township,9214,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16951,PA0500000,Perry,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16454,PA0261800,Perryopolis,1767,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16453,PA0261700,Perry Township,2526,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16632,PA0370900,Perry Township,1928,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16491,PA0300500,Perry Township,1468,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17144,PA0630400,Peters Township,21730,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16961,PA0510000,Philadelphia,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17376,PAPEP0000,Philadelphia,1553153,1A,"Cities 1,000,000 or over",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16135,PA0140200,Philipsburg,2749,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16158,PA0151000,Phoenixville,16531,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16966,PA0520000,Pike,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16244,PA0181600,Pine Creek Township,3275,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17010,PA0542400,Pine Grove,2160,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15787,PA0028300,Pitcairn,3284,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17377,PAPPD0000,Pittsburgh,307632,1C,"Cities from 250,000 thru 499,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15718,PA0021G00,Pittsburgh Park Police,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16702,PA0401100,Pittston,7710,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16734,PA0404900,Pittston Township,3388,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16914,PA0482000,Plainfield Township,6156,6,"Cities from 2,500 thru 9,999",0,9,0,0,0,0,0
+2013,Pennsylvania,PA,16712,PA0402100,Plains Township,9929,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15727,PA0022100,Pleasant Hills,8294,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15788,PA0028500,Plum,27476,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16015,PA0094300,Plumstead Township,12688,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16703,PA0401200,Plymouth,5917,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16724,PA0403500,Plymouth Township,1813,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16850,PA0462100,"Plymouth Township, Montgomery County",16647,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16823,PA0450900,Pocono Mountain Regional,38878,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16821,PA0450700,Pocono Township,10951,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16455,PA0261900,Point Marion,1146,7,"Cities under 2,500",0,9,0,0,1,1,0
+2013,Pennsylvania,PA,16944,PA0491600,Point Township,3749,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17125,PA0611400,Polk,807,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17122,PA0610300,Polk,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16069,PA0111400,Portage,2573,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16093,PA0114900,Portage Township,3574,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16768,PA0420300,Port Allegany,2130,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17003,PA0541700,Port Carbon,1855,7,"Cities under 2,500",1,12,0,7,0,1,0
+2013,Pennsylvania,PA,23495,PA0102800,Portersville,236,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16761,PA0411800,Porter Township,1618,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16915,PA0482100,Portland,518,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16531,PA0340700,Port Royal,938,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15789,PA0028600,Port Vue,3787,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16976,PA0530000,Potter,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15863,PA0044100,Potter Township,560,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16851,PA0462200,Pottstown,22509,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16993,PA0540700,Pottsville,14070,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16730,PA0404300,Pringle,976,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23503,PA0103000,Prospect,1161,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16381,PA0232500,Prospect Park,6474,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16634,PA0371400,Pulaski Township,3370,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15852,PA0042700,Pulaski Township,1476,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16518,PA0330300,Punxsutawney,5883,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16787,PA0430800,Pymatuning Township,3238,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15993,PA0091600,Quakertown,8950,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16597,PA0362900,Quarryville,2657,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15853,PA0042800,Raccoon Township,3049,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16382,PA0232600,Radnor Township,31527,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16941,PA0491200,Ralpho Township,4351,6,"Cities from 2,500 thru 9,999",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,15790,PA0028700,Rankin,2118,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15901,PA0061400,Reading,88107,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25296,PA0011300,Reading Township,5794,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16871,PA0464400,Red Hill,2392,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17274,PA0670800,Red Lion,6323,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16456,PA0262000,Redstone Township,5516,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17032,PA0545000,Reilly Township,717,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16234,PA0180200,Renovo,1232,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16442,PA0260600,Republic,1102,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17184,PA0634900,Resa Regional,2555,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15687,PA0020G00,Reserve Township,3330,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16519,PA0330400,Reynoldsville,2720,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16739,PA0405700,Rice Township,3533,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16647,PA0380400,Richland,1547,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15715,PA0021C00,Richland Township,11472,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16028,PA0096200,"Richland Township, Bucks County",13135,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16060,PA0110500,"Richland Township, Cambria County",12581,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16406,PA0240200,Ridgway,3987,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16383,PA0232700,Ridley Park,7007,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16384,PA0232800,Ridley Township,30994,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16020,PA0095000,Riegelsville,867,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16209,PA0160500,Rimersburg ,933,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17011,PA0542600,Ringtown,806,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16942,PA0491300,Riverside,1933,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16563,PA0353100,Roaring Brook Township,1966,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16276,PA0193000,Roaring Creek Township,544,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15950,PA0070600,Roaring Spring,2574,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15902,PA0061500,Robesonia,2072,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15916,PA0062900,Robeson Township,7326,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15747,PA0024000,"Robinson Township, Allegheny County",13586,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17183,PA0634700,"Robinson Township, Washington County",1930,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15835,PA0040700,Rochester,3613,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15854,PA0042900,Rochester Township,2780,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16853,PA0462400,Rockledge,2552,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17062,PA0561800,Rockwood,873,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17169,PA0633100,Roscoe,807,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16916,PA0482200,Roseto,1564,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15791,PA0028800,Rosslyn Farms,423,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15728,PA0022200,Ross Township,31140,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17242,PA0654500,Rostraver Township,11268,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16979,PA0530300,Roulette Township,1206,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16343,PA0222100,Royalton,1068,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16854,PA0462500,Royersford,4787,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15814,PA0031100,Rural Valley,870,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17020,PA0543600,Rush Township,3384,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17018,PA0543400,Ryan Township,2528,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16955,PA0500400,Rye Township,2337,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16596,PA0362800,Sadsbury Township,3436,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16193,PA0155000,"Sadsbury Township, Chester County",3762,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16289,PA0201000,Saegertown,981,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17221,PA0652000,Salem Township,6602,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16733,PA0404700,"Salem Township, Luzerne County",4252,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17059,PA0561200,Salisbury,715,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16675,PA0390600,Salisbury Township,13672,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16509,PA0320700,Saltsburg,861,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16789,PA0431000,Sandy Lake,651,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16222,PA0170800,Sandy Township,10633,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16087,PA0113700,Sankertown,662,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16047,PA0101900,Saxonburg,1523,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15881,PA0050400,Saxton,718,7,"Cities under 2,500",0,11,0,1,0,0,0
+2013,Pennsylvania,PA,15968,PA0080300,Sayre,6583,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16986,PA0540000,Schuylkill ,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16995,PA0540900,Schuylkill Haven,5337,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17012,PA0542700,Schuylkill Township,1116,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16170,PA0152200,"Schuylkill Township, Chester County",8542,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17214,PA0651200,Scottdale,4312,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15748,PA0024100,"Scott Township, Allegheny County",17015,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16255,PA0190800,"Scott Township, Columbia County",5088,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16559,PA0352700,"Scott Township, Lackawanna County",4944,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16539,PA0350400,Scranton,75732,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17040,PA0550100,Selinsgrove,5560,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17243,PA0654700,Seton Hill University,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17063,PA0561900,Seven Springs,26,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17235,PA0653600,Seward,486,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15729,PA0022300,Sewickley,4363,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15730,PA0022400,Sewickley Heights,819,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23950,PA0561400,Shade Township,2715,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15749,PA0024200,Shaler Township,28781,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16936,PA0490400,Shamokin,7303,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17042,PA0550300,Shamokin Dam,1680,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16785,PA0430600,Sharon,13750,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16385,PA0233000,Sharon Hill,5696,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15792,PA0029000,Sharpsburg,3438,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16786,PA0430700,Sharpsville,4330,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17132,PA0620300,Sheffield Township,2074,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16996,PA0541000,Shenandoah,4976,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16790,PA0431100,Shenango Township,3866,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16626,PA0370300,"Shenango Township, Lawrence County",7403,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16725,PA0403700,Shickshinny,834,7,"Cities under 2,500",0,5,0,0,0,0,0
+2013,Pennsylvania,PA,15903,PA0061600,Shillington,5257,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16980,PA0530400,Shinglehouse,1130,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16307,PA0210900,Shippensburg,5496,6,"Cities from 2,500 thru 9,999",1,12,0,10,0,1,0
+2013,Pennsylvania,PA,16314,PA0211600,Shippensburg University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15869,PA0045100,Shippingport,214,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16308,PA0211000,Shiremanstown,1565,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15925,PA0063900,Shoemakersville,1376,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16972,PA0520600,Shohola Township,2413,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16007,PA0093400,Silverdale,868,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17086,PA0581300,Silver Lake Township,1689,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16315,PA0211700,Silver Spring Township,14743,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2013,Pennsylvania,PA,15904,PA0061700,Sinking Spring,4005,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16676,PA0390700,Slatington,4272,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16035,PA0100300,Slippery Rock,3676,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16043,PA0101100,Slippery Rock University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16773,PA0420800,Smethport,1631,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16459,PA0262500,Smithfield,867,7,"Cities under 2,500",0,5,0,0,0,0,0
+2013,Pennsylvania,PA,17250,PA0656300,Smithton Borough,391,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17170,PA0633200,Smith Township,4450,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15688,PA0020I00,Snowden Township,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16144,PA0141200,Snow Shoe,770,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17039,PA0550000,Snyder,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15958,PA0071600,Snyder Township,3374,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16523,PA0331100,Snyder Township ,2518,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15995,PA0091800,Solebury Township,8701,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17049,PA0560200,Somerset,6154,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17047,PA0560000,Somerset ,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16855,PA0462600,Souderton,6647,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16552,PA0351900,South Abington Township,9162,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16659,PA0381700,South Annville Township,2902,6,"Cities from 2,500 thru 9,999",0,4,0,0,0,0,0
+2013,Pennsylvania,PA,15862,PA0043900,South Beaver Township,2703,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15815,PA0031200,South Buffalo Township,2635,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16263,PA0191600,South Centre Township,4216,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16171,PA0152300,South Coatesville,1409,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16443,PA0260700,South Connellsville Borough,1952,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16603,PA0363500,Southern Regional Lancaster County,3812,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17302,PA0674800,Southern Regional York County,10658,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15689,PA0020J00,South Fayette Township,15079,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16070,PA0111500,South Fork,903,7,"Cities under 2,500",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,17222,PA0652100,South Greensburg,2087,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15931,PA0064700,South Heidelberg Township,7354,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15867,PA0044900,South Heights,468,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17223,PA0652200,South Huntingdon Township,5709,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16649,PA0380600,South Lebanon Township,9614,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16662,PA0382200,South Londonderry Township,7213,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16071,PA0111600,Southmont,2230,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16633,PA0371300,South New Castle ,692,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,15717,PA0021E00,South Park Township,13528,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16799,PA0432400,South Pymatuning Township,2651,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17171,PA0633300,South Strabane Township,9564,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16458,PA0262400,South Union Township,10710,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15971,PA0080700,South Waverly,1034,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17286,PA0672500,Southwestern Regional,17544,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17224,PA0652300,Southwest Greensburg,2117,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16780,PA0430100,Southwest Mercer County Regional,10197,5,"Cities from 10,000 thru 24,999",1,12,0,6,0,1,0
+2013,Pennsylvania,PA,16440,PA0260400,"Southwest Regional, Fayette County",1619,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23302,PA0301000,"Southwest Regional, Greene County",2640,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23300,PA0635900,"Southwest Regional, Washington County",9093,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16682,PA0391300,South Whitehall Township,19578,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16754,PA0410400,South Williamsport,6399,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16072,PA0111700,Spangler Borough,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17151,PA0631100,Speers,1143,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16159,PA0151100,Spring City,3335,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15793,PA0029100,Springdale,3402,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15725,PA0021S00,Springdale Township,1635,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17271,PA0670400,Springettsbury Township,26716,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16008,PA0093500,"Springfield Township, Bucks County",5050,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16386,PA0233100,"Springfield Township, Delaware County",24267,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16852,PA0462300,"Springfield Township, Montgomery County",19500,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17270,PA0670300,Spring Garden Township,12944,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15905,PA0061800,"Spring Township, Berks County",27450,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16138,PA0140500,"Spring Township, Centre County",7664,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17043,PA0550700,"Spring Township, Snyder County",1616,7,"Cities under 2,500",0,4,0,0,0,0,0
+2013,Pennsylvania,PA,16345,PA0222300,State Capitol Police,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16136,PA0140300,State College,56612,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23272,PA0132000,State Park Rangers: Beltzville,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23289,PA0512600,State Park Rangers: Ben Rush,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23269,PA0141700,State Park Rangers: Black Moshannon,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23226,PA0281100,State Park Rangers: Caledonia,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,22492,PA0670700,State Park Rangers: Codorus,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23306,PA0212300,State Park Rangers: Colonel Denning,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23238,PA0093300,State Park Rangers: Delaware Canal,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23250,PA0463900,State Park Rangers: Evansburg,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23301,PA0465600,State Park Rangers: Fort Washington,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23284,PA0407500,State Park Rangers: Frances Slocum,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23497,PA0066500,State Park Rangers: French Creek,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25291,PA0671100,State Park Rangers: Gifford Pinchot,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23244,PA0311000,State Park Rangers: Greenwood Furnace,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25297,PA0132100,State Park Rangers: Hickory Run,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25294,PA0656000,State Park Rangers: Keystone,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25295,PA0213500,State Park Rangers: Kings Gap Environmental Education Center,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23227,PA0562700,State Park Rangers: Kooser,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23265,PA0352100,State Park Rangers: Lackawanna,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23274,PA0562900,State Park Rangers: Laurel Hill,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23276,PA0562800,State Park Rangers: Laurel Ridge,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25293,PA0656100,State Park Rangers: Linn Run,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23283,PA0501500,State Park Rangers: Little Buffalo,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23494,PA0156000,State Park Rangers: Marsh Creek,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23307,PA0432600,State Park Rangers: Maurice K. Goddard,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16228,PA0171900,State Park Rangers: Moshannon State Forest,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,23236,PA0093000,State Park Rangers: Neshaminy,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23076,PA0094000,State Park Rangers: Nockamixon,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16461,PA0263600,State Park Rangers: Ohiopyle,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23258,PA0611500,State Park Rangers: Oil Creek,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16319,PA0212500,State Park Rangers: Pine Grove Furnace,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16427,PA0251300,State Park Rangers: Presque Isle,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16107,PA0116800,State Park Rangers: Prince Gallitzin,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25289,PA0520700,State Park Rangers: Promised Land,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16288,PA0200900,State Park Rangers: Pymatuning,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23287,PA0045600,State Park Rangers: Raccoon Creek,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25292,PA0403000,State Park Rangers: Ricketts Glen,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23266,PA0235300,State Park Rangers: Ridley Creek,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25290,PA0451200,State Park Rangers: Tobyhanna,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23949,PA0545400,State Park Rangers: Tuscarora,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23245,PA0094900,State Park Rangers: Tyler,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23243,PA0155900,State Park Rangers: White Clay,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,25288,PA0570400,State Park Rangers: Worlds End,,,,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17378,PAPSP0000,State Police,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,15670,PA001SP00,State Police: Adams County,46547,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15804,PA002SP00,State Police: Allegheny County,801,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15827,PA003SP00,State Police: Armstrong County,26934,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15876,PA004SP00,State Police: Beaver County,13269,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15886,PA005SP00,State Police: Bedford County,42545,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15943,PA006SP00,State Police: Berks County,73047,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15964,PA007SP00,State Police: Blair County,26907,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15977,PA008SP00,State Police: Bradford County,41426,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16031,PA009SP00,State Police: Bucks County,25936,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16280,PA01BCI0X,"State Police, Bureau of Criminal Investigation: Adams County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16486,PA02BCI0X,"State Police, Bureau of Criminal Investigation: Allegheny County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16690,PA03BCI0X,"State Police, Bureau of Criminal Investigation: Armstrong County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16950,PA04BCI0X,"State Police, Bureau of Criminal Investigation: Beaver County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17108,PA05BCI0X,"State Police, Bureau of Criminal Investigation: Bedford County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17313,PA06BCI0X,"State Police, Bureau of Criminal Investigation: Berks County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17314,PA07BCI0X,"State Police, Bureau of Criminal Investigation: Blair County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17315,PA08BCI0X,"State Police, Bureau of Criminal Investigation: Bradford County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17316,PA09BCI0X,"State Police, Bureau of Criminal Investigation: Bucks County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17317,PA10BCI0X,"State Police, Bureau of Criminal Investigation: Butler County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17318,PA11BCI0X,"State Police, Bureau of Criminal Investigation: Cambria County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17319,PA12BCI0X,"State Police, Bureau of Criminal Investigation: Cameron County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17320,PA13BCI0X,"State Police, Bureau of Criminal Investigation: Carbon County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17321,PA14BCI0X,"State Police, Bureau of Criminal Investigation: Centre County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17322,PA15BCI0X,"State Police, Bureau of Criminal Investigation: Chester County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17323,PA16BCI0X,"State Police, Bureau of Criminal Investigation: Clarion County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17324,PA17BCI0X,"State Police, Bureau of Criminal Investigation: Clearfield County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17325,PA18BCI0X,"State Police, Bureau of Criminal Investigation: Clinton County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17326,PA19BCI0X,"State Police, Bureau of Criminal Investigation: Columbia County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17327,PA20BCI0X,"State Police, Bureau of Criminal Investigation: Crawford County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17328,PA21BCI0X,"State Police, Bureau of Criminal Investigation: Cumberland County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17329,PA22BCI0X,"State Police, Bureau of Criminal Investigation: Dauphin County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17330,PA23BCI0X,"State Police, Bureau of Criminal Investigation: Delaware County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17331,PA24BCI0X,"State Police, Bureau of Criminal Investigation: Elk County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17332,PA25BCI0X,"State Police, Bureau of Criminal Investigation: Erie County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17333,PA26BCI0X,"State Police, Bureau of Criminal Investigation: Fayette County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17334,PA27BCI0X,"State Police, Bureau of Criminal Investigation: Forest County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17335,PA28BCI0X,"State Police, Bureau of Criminal Investigation: Franklin County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17336,PA29BCI0X,"State Police, Bureau of Criminal Investigation: Fulton County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17337,PA30BCI0X,"State Police, Bureau of Criminal Investigation: Greene County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17338,PA31BCI0X,"State Police, Bureau of Criminal Investigation: Huntingdon County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17339,PA32BCI0X,"State Police, Bureau of Criminal Investigation: Indiana County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17340,PA33BCI0X,"State Police, Bureau of Criminal Investigation: Jefferson County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17341,PA34BCI0X,"State Police, Bureau of Criminal Investigation: Juniata County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17342,PA35BCI0X,"State Police, Bureau of Criminal Investigation: Lackawanna County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17343,PA36BCI0X,"State Police, Bureau of Criminal Investigation: Lancaster County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17344,PA37BCI0X,"State Police, Bureau of Criminal Investigation: Lawrence County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17345,PA38BCI0X,"State Police, Bureau of Criminal Investigation: Lebanon County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17346,PA39BCI0X,"State Police, Bureau of Criminal Investigation: Lehigh County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17347,PA40BCI0X,"State Police, Bureau of Criminal Investigation: Luzerne County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17348,PA41BCI0X,"State Police, Bureau of Criminal Investigation: Lycoming County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17349,PA42BCI0X,"State Police, Bureau of Criminal Investigation: McKean County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17350,PA43BCI0X,"State Police, Bureau of Criminal Investigation: Mercer County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17351,PA44BCI0X,"State Police, Bureau of Criminal Investigation: Mifflin County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17352,PA45BCI0X,"State Police, Bureau of Criminal Investigation: Monroe County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17353,PA46BCI0X,"State Police, Bureau of Criminal Investigation: Montgomery County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17354,PA47BCI0X,"State Police, Bureau of Criminal Investigation: Montour County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17355,PA48BCI0X,"State Police, Bureau of Criminal Investigation: Northampton County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17356,PA49BCI0X,"State Police, Bureau of Criminal Investigation: Northumberland County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17357,PA50BCI0X,"State Police, Bureau of Criminal Investigation: Perry County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17358,PA51BCI0X,"State Police, Bureau of Criminal Investigation: Philadelphia County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17359,PA52BCI0X,"State Police, Bureau of Criminal Investigation: Pike County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17360,PA53BCI0X,"State Police, Bureau of Criminal Investigation: Potter County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17361,PA54BCI0X,"State Police, Bureau of Criminal Investigation: Schuylkill County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17362,PA55BCI0X,"State Police, Bureau of Criminal Investigation: Snyder County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17363,PA56BCI0X,"State Police, Bureau of Criminal Investigation: Somerset County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17364,PA57BCI0X,"State Police, Bureau of Criminal Investigation: Sullivan County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17365,PA58BCI0X,"State Police, Bureau of Criminal Investigation: Susquehanna County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17366,PA59BCI0X,"State Police, Bureau of Criminal Investigation: Tioga County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17367,PA60BCI0X,"State Police, Bureau of Criminal Investigation: Union County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17368,PA61BCI0X,"State Police, Bureau of Criminal Investigation: Venango County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17369,PA62BCI0X,"State Police, Bureau of Criminal Investigation: Warren County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17370,PA63BCI0X,"State Police, Bureau of Criminal Investigation: Washington County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17371,PA64BCI0X,"State Police, Bureau of Criminal Investigation: Wayne County",0,8E,Non-MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17372,PA65BCI0X,"State Police, Bureau of Criminal Investigation: Westmoreland County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17373,PA66BCI0X,"State Police, Bureau of Criminal Investigation: Wyoming County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17374,PA67BCI0X,"State Police, Bureau of Criminal Investigation: York County",0,9E,MSA State Police,1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16054,PA010SP00,State Police: Butler County,73715,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16110,PA011SP00,State Police: Cambria County,22267,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16115,PA012SP00,State Police: Cameron County,2898,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16132,PA013SP00,State Police: Carbon County,22131,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16147,PA014SP00,State Police: Centre County,51460,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16203,PA015SP00,State Police: Chester County,113502,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16214,PA016SP00,State Police: Clarion County,30427,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16231,PA017SP00,State Police: Clearfield County,36370,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16247,PA018SP00,State Police: Clinton County,17394,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16279,PA019SP00,State Police: Columbia County,11631,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16297,PA020SP00,State Police: Crawford County,49731,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16323,PA021SP00,State Police: Cumberland County,60264,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16403,PA023SP00,State Police: Delaware County,53171,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16355,PA022SP00,State Police: Elizabethville,57939,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16413,PA024SP00,State Police: Elk County,12134,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16435,PA025SP00,State Police: Erie County,90034,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16465,PA026SP00,State Police: Fayette County,85915,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16480,PA028SP00,State Police: Franklin County,99698,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16485,PA029SP00,State Police: Fulton County,14733,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17375,PAGEA0700,State Police Gaming Enforcement,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16495,PA030SP00,State Police: Greene County,24176,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16502,PA031SP00,State Police: Huntingdon County,33671,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16514,PA032SP00,State Police: Indiana County,66378,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16527,PA033SP00,State Police: Jefferson County,28915,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16534,PA034SP00,State Police: Juniata County,24368,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16568,PA035SP00,State Police: Lackawanna County,18317,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16622,PA036SP00,State Police: Lancaster County,91143,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16642,PA037SP00,State Police: Lawrence County,14380,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16668,PA038SP00,State Police: Lebanon County,30138,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16689,PA039SP00,State Police: Lehigh County,78158,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16749,PA040SP00,State Police: Luzerne County,49783,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16764,PA041SP00,State Police: Lycoming County,56598,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16778,PA042SP00,State Police: McKean County,14518,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16802,PA043SP00,State Police: Mercer County,37473,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16813,PA044SP00,State Police: Mifflin County,12508,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16828,PA045SP00,State Police: Monroe County,79199,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16893,PA047SP00,State Police: Montour County,9503,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16931,PA048SP00,State Police: Northampton County,26945,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16949,PA049SP00,State Police: Northumberland County,29455,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16960,PA050SP00,State Police: Perry County,37953,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16965,PA051SP00,State Police: Philadelphia County,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16975,PA052SP00,State Police: Pike County,48601,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16985,PA053SP00,State Police: Potter County,11311,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17038,PA054SP00,State Police: Schuylkill County,38287,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16887,PA046SP00,State Police: Skippack,56965,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17046,PA055SP00,State Police: Snyder County,29480,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17070,PA056SP00,State Police: Somerset County,41674,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17075,PA057SP00,State Police: Sullivan County,6472,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17091,PA058SP00,State Police: Susquehanna County,30972,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17107,PA059SP00,State Police: Tioga County,27082,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16469,PA027SP00,State Police: Tionesta,7653,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17118,PA060SP00,State Police: Union County,28117,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17128,PA061SP00,State Police: Venango County,30655,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17139,PA062SP00,State Police: Warren County,23514,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17191,PA063SP00,State Police: Washington County,41656,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17201,PA064SP00,State Police: Wayne County,43025,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17253,PA065SP00,State Police: Westmoreland County,136561,9A,"MSA counties 100,000 or over",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17266,PA066SP00,State Police: Wyoming County,15237,9C,"MSA counties from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17312,PAPSP9400,State Police: York County,62139,9B,"MSA counties from 25,000 thru 99,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16994,PA0540800,St. Clair Boro,2952,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17247,PA0655300,St. Clair Township,1503,7,"Cities under 2,500",0,9,0,0,0,0,0
+2013,Pennsylvania,PA,16331,PA0220700,Steelton,5951,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17298,PA0674300,Stewartstown,2392,7,"Cities under 2,500",0,1,0,0,0,0,0
+2013,Pennsylvania,PA,16274,PA0192800,Stillwater,210,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15924,PA006380X,St. Lawrence Boro,1810,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16407,PA0240300,St. Marys City,12874,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16924,PA0483400,Stockertown,925,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16793,PA0431400,Stoneboro,1031,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16088,PA0114000,Stonycreek Township,2778,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15750,PA0024300,Stowe Township,6347,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16598,PA0363000,Strasburg,2847,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16822,PA0450800,Stroud Area Regional,34404,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16817,PA0450300,Stroudsburg,5535,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17123,PA0610500,Sugarcreek,5219,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16273,PA0192700,Sugarloaf Township,909,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16740,PA0406000,"Sugarloaf Township, Luzerne County",4240,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16713,PA0402200,Sugar Notch,981,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17071,PA0570000,Sullivan ,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16089,PA0114200,Summerhill Township,2421,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16524,PA0331200,Summerville,521,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16121,PA0130600,Summit Hill,3002,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17067,PA0562600,Summit Township,2252,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16937,PA0490500,Sunbury,9819,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17076,PA0580000,Susquehanna,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17077,PA0580100,Susquehanna ,1602,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16606,PA0363800,Susquehanna Regional,8049,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16094,PA0115000,Susquehanna Township,1966,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16332,PA0220800,"Susquehanna Township, Dauphin County",24443,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17249,PA0655800,Sutersville,594,7,"Cities under 2,500",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16387,PA0233200,Swarthmore,6189,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16333,PA0220900,Swatara Township,23857,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16982,PA0531300,Sweden Township,880,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15751,PA0024400,Swissvale,8962,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16714,PA0402300,Swoyersville,5050,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16522,PA0330700,Sykesville,1142,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16997,PA0541100,Tamaqua,6972,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15794,PA0029200,Tarentum,4518,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16917,PA0482300,Tatamy,1142,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16546,PA0351200,Taylor,6252,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16865,PA0463700,Telford,4880,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15926,PA0064000,Temple,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16599,PA0363100,Terre Hill,1334,7,"Cities under 2,500",1,12,0,2,0,1,0
+2013,Pennsylvania,PA,15795,PA0029300,Thornburg,452,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16172,PA0152400,Thornbury Township,3111,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16547,PA0351300,Throop,4100,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16751,PA0410100,Tiadaghton Valley Regional,6693,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17133,PA0620500,Tidioute,675,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15940,PA0066200,Tilden Township,3603,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16021,PA0095100,"Tinicum Township, Bucks County",3982,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16388,PA0233300,"Tinicum Township, Delaware County",4096,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17100,PA0591200,Tioga,675,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17092,PA0590000,Tioga,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16283,PA0200200,Titusville,5470,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16884,PA0465900,Towamencin Township,18117,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15969,PA0080400,Towanda,2900,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17013,PA0542800,Tower City,1328,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17225,PA0652400,Trafford,3193,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16389,PA0233400,Trainer,1846,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16160,PA0151200,Tredyffrin Township,29492,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17014,PA0542900,Tremont,1731,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15970,PA0080500,Troy,1312,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15996,PA0091900,Tullytown,1869,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15939,PA0066000,Tulpehocken Township,3275,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17258,PA0660400,Tunkhannock,1797,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16825,PA0451300,Tunkhannock Township,6764,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17263,PA0661200,"Tunkhannock Township, Wyoming County",6297,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16102,PA0116000,Tunnelhill,359,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15752,PA0024500,Turtle Creek,5331,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17172,PA0633400,Twilight,233,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15948,PA0070400,Tyrone,5444,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15960,PA0072000,Tyrone Area School District,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15974,PA0081800,Ulster Township,1347,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17109,PA0600000,Union,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16421,PA0250700,Union City,3274,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17088,PA0581800,Union Dale,253,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16439,PA0260300,Uniontown,10190,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16462,PA0263800,Uniontown Hospital,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16809,PA0440900,Union Township,3471,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17173,PA0633500,Union Township,5765,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17114,PA060070X,Union Township,1596,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16631,PA0370800,"Union Township, Lawrence County",5088,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17015,PA0543000,"Union Township, Schuylkill County",1259,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16775,PA0421500,University of Pittsburgh: Bradford,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17248,PA0655600,University of Pittsburgh: Greensburg,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16106,PA0116500,University of Pittsburgh: Johnstown,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15722,PA0021N00,University of Pittsburgh: Pittsburgh,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16294,PA0201900,University of Pittsburgh: Titusville,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16390,PA0233500,Upland,3246,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16316,PA0211800,Upper Allen Township,18496,5,"Cities from 10,000 thru 24,999",1,12,0,1,0,1,0
+2013,Pennsylvania,PA,17236,PA0653700,Upper Burrell Township,2302,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16391,PA0233600,Upper Chichester Township,16929,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16392,PA0233700,Upper Darby Township,82771,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16856,PA0462700,Upper Dublin Township,26262,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16857,PA0462800,Upper Gwynedd Township,15848,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16883,PA0465800,Upper Hanover Township,6722,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16610,PA0364200,Upper Leacock Township,8836,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23256,PA0392700,Upper Macungie Township,21972,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16000,PA0092300,Upper Makefield Township,8273,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16858,PA0462900,Upper Merion Township,28585,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16859,PA0463000,Upper Moreland Township,24149,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16918,PA0482400,Upper Mount Bethel Township,6874,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16923,PA0483200,Upper Nazareth Township,6388,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16876,PA0465000,Upper Perkiomen,6831,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16872,PA0464600,Upper Pottsgrove Township,5387,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16393,PA0233800,"Upper Providence Township, Delaware County",10310,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16866,PA0463800,"Upper Providence Township, Montgomery County",21699,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16680,PA0391100,Upper Saucon Township,15606,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15997,PA0092000,Upper Southampton Township,15199,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15731,PA0022500,Upper St. Clair Township,19319,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16173,PA0152500,Upper Uwchlan Township,11494,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16073,PA0111800,Upper Yoder Township,5340,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16175,PA0152800,Uwchlan Township,18401,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16873,PA0464700,Valley Forge State Park,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16187,PA0154400,Valley Township,7300,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17215,PA0651300,Vandergrift,5120,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16553,PA0352000,Vandling,747,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15859,PA0043500,Vanport Township,1315,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17119,PA0610000,Venango,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16290,PA0201100,Vernon Township,5544,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15796,PA0029400,Verona,2468,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15797,PA0029500,Versailles,1509,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16099,PA0115600,Vintondale,402,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17028,PA0544500,Walker Township,1040,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16181,PA0153600,Wallace Township,3623,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15798,PA0029600,Wall Borough,579,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16921,PA0482800,Walnutport,2064,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16635,PA0371700,Wampum,700,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15998,PA0092100,Warminster Township,32802,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17129,PA0620000,Warren,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17130,PA0620100,Warren,9477,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16017,PA0094500,Warrington Township,23565,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16009,PA0093600,"Warwick Township, Bucks County",14625,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16600,PA0363200,"Warwick Township, Lancaster County",17874,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17140,PA0630000,Washington,0,9D,"MSA counties under 10,000",0,11,0,0,0,0,0
+2013,Pennsylvania,PA,16601,PA0363300,Washington,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17187,PA063560X,Washington County Alternative Education,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2013,Pennsylvania,PA,16010,PA0093700,Washington Crossing State Park,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16103,PA0116100,Washington Township,870,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16444,PA0260800,"Washington Township, Fayette County",3838,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16476,PA0280600,"Washington Township, Franklin County",14261,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2013,Pennsylvania,PA,16919,PA0482500,"Washington Township, Northampton County",5155,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17244,PA0654900,"Washington Township, Westmoreland County",7354,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17145,PA0630500,"Washington, Washington County",13905,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16943,PA0491400,Watsontown,2368,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16556,PA0352400,Waverly Township,1750,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17195,PA0640300,Waymart,1288,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17192,PA0640000,Wayne ,0,8D,"Non-MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16473,PA0280300,Waynesboro,10650,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2013,Pennsylvania,PA,16488,PA0300100,Waynesburg,4106,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23498,PA0371000,Wayne Township,2571,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16492,PA0300600,Wayne Township,1172,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16122,PA0130700,Weatherly,2495,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16129,PA0131600,Weissport,404,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17093,PA0590100,Wellsboro,3300,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16419,PA0250500,Wesleyville,3296,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17181,PA0634500,West Alexander,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16197,PA0155500,West Brandywine Township,7446,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17174,PA0633600,West Brownsville,992,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16194,PA0155200,West Caln Township,9081,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16090,PA0114300,West Carroll Township,1272,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16161,PA0151300,West Chester,18988,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16189,PA0154600,West Chester University,0,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16611,PA0364300,West Cocalico Township,7315,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16864,PA0463600,West Conshohocken,1333,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16660,PA0381900,West Cornwall Township,1974,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15716,PA0021D00,West Deer Township,11880,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16612,PA0364400,West Donegal Township,8462,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16615,PA0364800,West Earl Township,7981,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15799,PA0029700,West Elizabeth,515,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15906,PA0061900,Western Berks Regional,4561,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16309,PA0211100,West Fairview,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16182,PA0153700,West Fallowfield Township,2584,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17098,PA0590700,Westfield,1074,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17101,PA0591400,Westfield Township,1060,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16162,PA0151400,West Goshen Township,22970,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16163,PA0151500,West Grove Borough,2867,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16715,PA0402400,West Hazleton,4567,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16602,PA0363400,West Hempfield Township,16337,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16101,PA0115900,West Hills Regional,10649,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15753,PA0024600,West Homestead,1940,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15820,PA0032000,West Kittanning,1159,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16583,PA0361400,West Lampeter Township,15465,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15907,PA0062000,West Lawn,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16663,PA0382300,West Lebanon Township,792,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23304,PA0654200,West Leechburg,1273,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17021,PA0543700,West Mahanoy Township,2837,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17275,PA0670900,West Manchester Township,18831,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17288,PA0672700,West Manheim Township,7990,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15868,PA0045000,West Mayfield Borough,1223,7,"Cities under 2,500",0,6,0,0,0,0,0
+2013,Pennsylvania,PA,16291,PA0201400,West Mead Township,5164,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16792,PA0431300,West Middlesex Boro,854,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15754,PA0024700,West Mifflin,20276,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16061,PA0110600,Westmont,5054,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17202,PA0650000,Westmoreland,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15650,PA0006500,Westmoreland-Bureau of Narcotics Investigation,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17246,PA0655200,Westmoreland County Park,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17226,PA0652500,West Newton,2591,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16860,PA0463100,West Norriton Township,15781,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16195,PA0155300,West Nottingham Township,2722,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17027,PA0544300,West Penn Township,4415,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16198,PA0155700,West Pikeland Township,4072,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17185,PA0635000,West Pike Run,1576,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16716,PA0402500,West Pittston,4840,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16874,PA0464800,West Pottsgrove Township,3890,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15908,PA0062100,West Reading,4201,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16011,PA0093800,West Rockhill Township,5306,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16183,PA0153800,West Sadsbury Township,2472,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16798,PA0432200,West Salem Township,3503,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16303,PA0210500,West Shore Regional,7691,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16091,PA0114400,West Taylor Township,783,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16174,PA0152700,Westtown-East Goshen Regional,32201,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15800,PA0029800,West View,6755,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16184,PA0153900,West Vincent Township,4856,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16185,PA0154000,West Whiteland Township,18452,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16717,PA0402600,West Wyoming,2715,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17276,PA0671000,West York,4578,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16791,PA0431200,Wheatland,620,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15801,PA0029900,Whitaker Borough,1271,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15732,PA0022600,Whitehall,13936,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16677,PA0390800,Whitehall Township,27215,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16726,PA0403800,White Haven Borough,1125,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16861,PA0463200,Whitemarsh Township,17495,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15690,PA0020K00,White Oak,7857,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15855,PA0043100,White Township,1379,7,"Cities under 2,500",0,6,0,0,0,0,0
+2013,Pennsylvania,PA,16862,PA0463300,Whitpain Township,19152,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16342,PA0221800,Wiconisco Township,1201,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16704,PA0401300,Wilkes-Barre,41166,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16746,PA0407800,Wilkes-Barre Area School District,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16718,PA0402700,Wilkes-Barre Township,2959,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15733,PA0022700,Wilkinsburg,15900,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15691,PA0020L00,Wilkins Township,6359,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15954,PA0071000,Williamsburg,1244,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16755,PA0410500,Williamsport,29536,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16338,PA0221400,Williamstown,1376,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16164,PA0151600,Willistown Township,10600,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15692,PA0020M00,Wilmerding,2184,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16904,PA0481000,Wilson,7844,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17050,PA0560300,Windber,4066,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16920,PA0482600,Wind Gap,2724,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17289,PA0672800,Windsor Boro,1525,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17290,PA0672900,Windsor Township,17755,5,"Cities from 10,000 thru 24,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15934,PA0065200,Womelsdorf,2818,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16237,PA0180600,Woodward Township,2403,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16310,PA0211200,Wormleysburg,3060,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15824,PA0032500,Worthington,629,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16016,PA0094400,Wrightstown Township,3080,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17291,PA0673000,Wrightsville,2293,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16727,PA0403900,Wright Township,5676,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17254,PA0660000,Wyoming,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16705,PA0401400,Wyoming,3055,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,23141,PA0407900,Wyoming Area School District,0,7,"Cities under 2,500",0,10,0,0,0,0,0
+2013,Pennsylvania,PA,15909,PA0062200,Wyomissing,10479,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,15910,PA0062300,Wyomissing Hills,0,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,15999,PA0092200,Yardley,2455,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16394,PA0233900,Yeadon,11509,5,"Cities from 10,000 thru 24,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17292,PA0673100,Yoe Boro,1013,7,"Cities under 2,500",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,17267,PA0670000,York,0,9D,"MSA counties under 10,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17269,PA0670200,York,43841,4,"Cities from 25,000 thru 49,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17293,PA0673200,York Area Regional,60995,3,"Cities from 50,000 thru 99,000",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17134,PA0620600,Youngsville,1686,7,"Cities under 2,500",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,17227,PA0652600,Youngwood,3002,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,0
+2013,Pennsylvania,PA,16036,PA0100400,Zelienople,3771,6,"Cities from 2,500 thru 9,999",1,12,0,0,0,1,0
+2013,Pennsylvania,PA,16940,PA0490900,Zerbe Township,1858,7,"Cities under 2,500",1,12,0,0,0,1,0
