@@ -1,0 +1,557 @@
+year,state_name,state_abbr,agency_id,agency_ori,agency_name,agency_population,population_group_code,population_group,reported,months_reported,nibrs_reported,nibrs_months_reported,covered,participated,nibrs_participated
+2016,South Carolina,SC,23242,SC0260900,15th Circuit Drug Enforcement Unit,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17442,SC0010000,Abbeville,15978,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17443,SC0010100,Abbeville,5173,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17453,SC0020000,Aiken,105257,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17454,SC0020100,Aiken,30415,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17464,SC0021100,Aiken Technical College,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17473,SC0030100,Allendale,3133,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17472,SC0030000,Allendale,4558,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17480,SC0040000,Anderson,152973,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17481,SC0040100,Anderson,27372,4,"Cities from 25,000 thru 49,999",0,10,1,12,0,0,1
+2016,South Carolina,SC,17679,SC0220100,Andrews,2863,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17923,SC0420400,Arcadia,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17727,SC0260100,Atlantic Beach,369,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17729,SC0260300,Aynor,660,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17497,SC0050100,Bamberg,3416,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17496,SC0050000,Bamberg,7527,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17508,SC0060100,Barnwell,4624,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17507,SC0060000,Barnwell,11888,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17789,SC0320100,Batesburg-Leesville,5438,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17517,SC0070100,Beaufort,13296,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17516,SC0070000,Beaufort,138399,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17482,SC0040200,Belton,4324,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17904,SC0408E00,Benedict College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17828,SC0350100,Bennettsville,8773,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17526,SC0080000,Berkeley,116330,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17533,SC0080700,Berkeley County School District Public Safety Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2016,South Carolina,SC,17752,SC0280200,Bethune,345,7,"Cities under 2,500",0,7,0,8,0,0,0
+2016,South Carolina,SC,17781,SC0310100,Bishopville,3260,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17569,SC0110100,Blacksburg,1880,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17510,SC0060300,Blackville,2307,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17518,SC0070200,Bluffton,15689,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17697,SC0231900,Bob Jones University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17528,SC0080200,Bonneau,512,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17862,SC0380300,Bowman,937,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17861,SC0380200,Branchville,992,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17736,SC0261100,Briarcliffe Acres,524,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17715,SC0250100,Brunson,526,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17907,SC040BP00,Bureau of Protective Services,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17457,SC0020400,Burnettown,2782,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17539,SC0090000,Calhoun,12457,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17444,SC0010200,Calhoun Falls,1958,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17751,SC0280100,Camden,7075,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17540,SC0090100,Cameron,417,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17924,SC0420500,Campobello,526,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17954,SC0440200,Carlisle,412,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17790,SC0320200,Cayce,13055,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17879,SC0390100,Central,5142,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17794,SC0320600,Chapin,1551,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17839,SC0360300,Chappells,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17548,SC0100100,Charleston,132585,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17547,SC0100000,Charleston,87017,9B,"MSA counties from 25,000 thru 99,999",0,8,1,12,0,0,1
+2016,South Carolina,SC,17561,SC0101500,Charleston County Aviation Authority,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17549,SC0100200,Charleston Police Department,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,1
+2016,South Carolina,SC,17586,SC0130100,Cheraw,5781,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17568,SC0110000,Cherokee,41733,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17925,SC0420600,Chesnee,896,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17576,SC0120000,Chester,23968,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17577,SC0120100,Chester,5467,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17587,SC0130200,Chesterfield,1452,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17585,SC0130000,Chesterfield,35279,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17695,SC0230800,City View,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17597,SC0140000,Clarendon,28165,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17880,SC0390200,Clemson,15369,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17884,SC0390600,Clemson University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17770,SC0300200,Clinton,8648,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17830,SC0350300,Clio,689,7,"Cities under 2,500",0,10,0,11,0,0,0
+2016,South Carolina,SC,17973,SC0460100,Clover,5696,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17735,SC0261000,Coastal Carolina University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17562,SC0101700,College of Charleston,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17606,SC0150000,Colleton,31187,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17892,SC0400100,Columbia,132495,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17905,SC0409E00,Columbia College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17801,SC0321300,Columbia Metropolitan Airport,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17728,SC0260200,Conway,20938,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17863,SC0380400,Cordova,165,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17609,SC0150300,Cottageville,734,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17665,SC0210300,Coward,755,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17926,SC0420700,Cowpens,2253,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17771,SC0300300,Cross Hill,495,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17615,SC0160000,Darlington,52177,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17616,SC0160100,Darlington,6186,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17498,SC0050200,Denmark,3334,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17501,SC0050500,Denmark Technical College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17901,SC0402100,Department of Disabilities and Special Needs,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17897,SC0401200,Department of Mental Health,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17451,SC001NR00,Department of Natural Resources: Abbeville County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17470,SC002NR00,Department of Natural Resources: Aiken County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17478,SC003NR00,Department of Natural Resources: Allendale County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17494,SC004NR00,Department of Natural Resources: Anderson County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17505,SC005NR00,Department of Natural Resources: Bamberg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17514,SC006NR00,Department of Natural Resources: Barnwell County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17524,SC007NR00,Department of Natural Resources: Beaufort County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17537,SC008NR00,Department of Natural Resources: Berkeley County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17545,SC009NR00,Department of Natural Resources: Calhoun County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17566,SC010NR00,Department of Natural Resources: Charleston County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17574,SC011NR00,Department of Natural Resources: Cherokee County,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17583,SC012NR00,Department of Natural Resources: Chester County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17595,SC013NR00,Department of Natural Resources: Chesterfield County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17604,SC014NR00,Department of Natural Resources: Clarendon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17613,SC015NR00,Department of Natural Resources: Colleton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17623,SC016NR00,Department of Natural Resources: Darlington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17633,SC017NR00,Department of Natural Resources: Dillon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17643,SC018NR00,Department of Natural Resources: Dorchester County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17652,SC019NR00,Department of Natural Resources: Edgefield County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17660,SC020NR00,Department of Natural Resources: Fairfield County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17676,SC021NR00,Department of Natural Resources: Florence County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17685,SC022NR00,Department of Natural Resources: Georgetown County,0,8E,Non-MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17701,SC023NR00,Department of Natural Resources: Greenville County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17712,SC024NR00,Department of Natural Resources: Greenwood County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17724,SC025NR00,Department of Natural Resources: Hampton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17740,SC026NR00,Department of Natural Resources: Horry County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17748,SC027NR00,Department of Natural Resources: Jasper County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17757,SC028NR00,Department of Natural Resources: Kershaw County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17766,SC029NR00,Department of Natural Resources: Lancaster County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17778,SC030NR00,Department of Natural Resources: Laurens County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17786,SC031NR00,Department of Natural Resources: Lee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17809,SC032NR00,Department of Natural Resources: Lexington County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17825,SC034NR00,Department of Natural Resources: Marion County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17834,SC035NR00,Department of Natural Resources: Marlboro County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17816,SC033NR00,Department of Natural Resources: McCormick County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17846,SC036NR00,Department of Natural Resources: Newberry County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17857,SC037NR00,Department of Natural Resources: Oconee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17876,SC038NR00,Department of Natural Resources: Orangeburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17889,SC039NR00,Department of Natural Resources: Pickens County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17909,SC040NR00,Department of Natural Resources: Richland County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17917,SC041NR00,Department of Natural Resources: Saluda County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17941,SC042NR00,Department of Natural Resources: Spartanburg County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17950,SC043NR00,Department of Natural Resources: Sumter County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,17959,SC044NR00,Department of Natural Resources: Union County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17970,SC045NR00,Department of Natural Resources: Williamsburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17982,SC046NR00,Department of Natural Resources: York County,0,9E,MSA State Police,1,12,1,12,0,1,1
+2016,South Carolina,SC,23101,SC0403300,Department of Public Safety Illegal Immigration Enforcement Unit,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17625,SC0170000,Dillon,22227,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17626,SC0170100,Dillon,6618,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17445,SC0010300,Donalds,343,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17635,SC0180000,Dorchester,82766,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17446,SC0010400,Due West,1256,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17922,SC0420300,Duncan,3297,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17881,SC0390300,Easley,20676,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17893,SC0400300,Eastover,821,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17645,SC0190000,Edgefield,19353,9C,"MSA counties from 10,000 thru 24,999",0,9,0,11,0,0,0
+2016,South Carolina,SC,17646,SC0190100,Edgefield,4710,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17608,SC0150200,Edisto Beach,414,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17499,SC0050300,Ehrhardt,511,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17753,SC0280400,Elgin,1452,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17864,SC0380500,Elloree,685,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17899,SC0401500,Employment Security Commission,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17927,SC0420800,Enoree,705,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17448,SC0019E00,Erskine College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17716,SC0250200,Estill,2022,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17865,SC0380600,Eutawville,307,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17474,SC0030200,Fairfax,1870,7,"Cities under 2,500",0,5,0,5,0,0,0
+2016,South Carolina,SC,17654,SC0200000,Fairfield,19472,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17662,SC0210000,Florence,86894,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17663,SC0210100,Florence,38183,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17551,SC0100400,Folly Beach,2769,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17894,SC0400400,Forest Acres,10649,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17450,SC001FC00,Forestry Commission: Abbeville County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17469,SC002FC00,Forestry Commission: Aiken County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17477,SC003FC00,Forestry Commission: Allendale County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17493,SC004FC00,Forestry Commission: Anderson County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17504,SC005FC00,Forestry Commission: Bamberg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17513,SC006FC00,Forestry Commission: Barnwell County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17523,SC007FC00,Forestry Commission: Beaufort County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17536,SC008FC00,Forestry Commission: Berkeley County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17544,SC009FC00,Forestry Commission: Calhoun County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17565,SC010FC00,Forestry Commission: Charleston County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17573,SC011FC00,Forestry Commission: Cherokee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17582,SC012FC00,Forestry Commission: Chester County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17594,SC013FC00,Forestry Commission: Chesterfield County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17603,SC014FC00,Forestry Commission: Clarendon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17612,SC015FC00,Forestry Commission: Colleton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17622,SC016FC00,Forestry Commission: Darlington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17632,SC017FC00,Forestry Commission: Dillon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17642,SC018FC00,Forestry Commission: Dorchester County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17651,SC019FC00,Forestry Commission: Edgefield County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17659,SC020FC00,Forestry Commission: Fairfield County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17675,SC021FC00,Forestry Commission: Florence County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17684,SC022FC00,Forestry Commission: Georgetown County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17700,SC023FC00,Forestry Commission: Greenville County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17711,SC024FC00,Forestry Commission: Greenwood County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17723,SC025FC00,Forestry Commission: Hampton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17739,SC026FC00,Forestry Commission: Horry County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17747,SC027FC00,Forestry Commission: Jasper County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17756,SC028FC00,Forestry Commission: Kershaw County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17765,SC029FC00,Forestry Commission: Lancaster County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17777,SC030FC00,Forestry Commission: Laurens County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17785,SC031FC00,Forestry Commission: Lee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17808,SC032FC00,Forestry Commission: Lexington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17824,SC034FC00,Forestry Commission: Marion County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17833,SC035FC00,Forestry Commission: Marlboro County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17815,SC033FC00,Forestry Commission: McCormick County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17845,SC036FC00,Forestry Commission: Newberry County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17856,SC037FC00,Forestry Commission: Oconee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17875,SC038FC00,Forestry Commission: Orangeburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17888,SC039FC00,Forestry Commission: Pickens County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17908,SC040FC00,Forestry Commission: Richland County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17916,SC041FC00,Forestry Commission: Saluda County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17940,SC042FC00,Forestry Commission: Spartanburg County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17949,SC043FC00,Forestry Commission: Sumter County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17958,SC044FC00,Forestry Commission: Union County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17969,SC045FC00,Forestry Commission: Williamsburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17981,SC046FC00,Forestry Commission: York County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17579,SC0120300,Fort Lawn,864,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17974,SC0460200,Fort Mill,13532,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17688,SC0230100,Fountain Inn,8254,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17672,SC0211000,Francis Marion University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,23253,SC0231000,Furman University,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17570,SC0110200,Gaffney,12608,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17802,SC0321400,Gaston,1656,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17678,SC0220000,Georgetown,49100,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17680,SC0220200,Georgetown,9028,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17719,SC0250500,Gifford,274,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17529,SC0080300,Goose Creek,41430,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17455,SC0020200,Graniteville,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17772,SC0300400,Gray Court,790,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17578,SC0120200,Great Falls,1926,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17965,SC0450400,Greeleyville,404,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17689,SC0230200,Greenville,63011,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17687,SC0230000,Greenville,350423,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,23268,SC0233000,Greenville Hospital,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17937,SC0422800,Greenville-Spartanburg International Airport,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17696,SC0230900,Greenville-Spartanburg Internationl Airport,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17694,SC0230700,Greenville Technical College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17704,SC0240100,Greenwood,23219,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17703,SC0240000,Greenwood,42733,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17690,SC0230300,Greer,28197,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17717,SC0250300,Hampton,2678,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17714,SC0250000,Hampton,12388,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17532,SC0080600,Hanahan,20337,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17743,SC0270100,Hardeeville,5328,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17638,SC0180300,Harleyville,693,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17617,SC0160200,Hartsville,7872,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17761,SC0290200,Heath Springs,887,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17962,SC0450100,Hemingway,428,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17452,SC001SP00,Highway Patrol: Abbeville County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17471,SC002SP00,Highway Patrol: Aiken County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17479,SC003SP00,Highway Patrol: Allendale County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17495,SC004SP00,Highway Patrol: Anderson County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17506,SC005SP00,Highway Patrol: Bamberg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17515,SC006SP00,Highway Patrol: Barnwell County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17525,SC007SP00,Highway Patrol: Beaufort County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17538,SC008SP00,Highway Patrol: Berkeley County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17546,SC009SP00,Highway Patrol: Calhoun County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17567,SC010SP00,Highway Patrol: Charleston County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17575,SC011SP00,Highway Patrol: Cherokee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17584,SC012SP00,Highway Patrol: Chester County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17596,SC013SP00,Highway Patrol: Chesterfield County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17605,SC014SP00,Highway Patrol: Clarendon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17614,SC015SP00,Highway Patrol: Colleton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17624,SC016SP00,Highway Patrol: Darlington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17634,SC017SP00,Highway Patrol: Dillon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17644,SC018SP00,Highway Patrol: Dorchester County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17653,SC019SP00,Highway Patrol: Edgefield County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17661,SC020SP00,Highway Patrol: Fairfield County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17677,SC021SP00,Highway Patrol: Florence County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17686,SC022SP00,Highway Patrol: Georgetown County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17702,SC023SP00,Highway Patrol: Greenville County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17713,SC024SP00,Highway Patrol: Greenwood County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17725,SC025SP00,Highway Patrol: Hampton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17741,SC026SP00,Highway Patrol: Horry County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17749,SC027SP00,Highway Patrol: Jasper County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17758,SC028SP00,Highway Patrol: Kershaw County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17767,SC029SP00,Highway Patrol: Lancaster County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17779,SC030SP00,Highway Patrol: Laurens County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17787,SC031SP00,Highway Patrol: Lee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17810,SC032SP00,Highway Patrol: Lexington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17826,SC034SP00,Highway Patrol: Marion County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17835,SC035SP00,Highway Patrol: Marlboro County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17817,SC033SP00,Highway Patrol: McCormick County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17847,SC036SP00,Highway Patrol: Newberry County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17858,SC037SP00,Highway Patrol: Oconee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17877,SC038SP00,Highway Patrol: Orangeburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17890,SC039SP00,Highway Patrol: Pickens County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17910,SC040SP00,Highway Patrol: Richland County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17918,SC041SP00,Highway Patrol: Saluda County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17942,SC042SP00,Highway Patrol: Spartanburg County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17951,SC043SP00,Highway Patrol: Sumter County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17960,SC044SP00,Highway Patrol: Union County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17971,SC045SP00,Highway Patrol: Williamsburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17983,SC046SP00,Highway Patrol: York County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17706,SC0240300,Hodges,154,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17866,SC0380700,Holly Hill,1243,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17483,SC0040300,Honea Path,3697,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17726,SC0260000,Horry,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17730,SC0260400,Horry County Police Department,231523,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17928,SC0420900,Inman,2239,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17795,SC0320700,Irmo,12081,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17552,SC0100500,Isle of Palms,4364,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17486,SC0040600,Iva,1274,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17458,SC0020500,Jackson,1765,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17530,SC0080400,Jamestown,77,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17742,SC0270000,Jasper,18415,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17588,SC0130300,Jefferson,745,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17666,SC0210400,Johnsonville,1515,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17647,SC0190200,Johnston,2331,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17955,SC0440300,Jonesville,864,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17762,SC0290300,Kershaw,2021,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17750,SC0280000,Kershaw,54822,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17963,SC0450200,Kingstree,3151,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17664,SC0210200,Lake City,6744,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17627,SC0170200,Lake View,784,7,"Cities under 2,500",0,8,0,8,0,0,0
+2016,South Carolina,SC,17618,SC0160300,Lamar,974,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17760,SC0290100,Lancaster,9065,6,"Cities from 2,500 thru 9,999",0,0,0,0,0,0,0
+2016,South Carolina,SC,17759,SC0290000,Lancaster,75938,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17708,SC0240500,Lander University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17929,SC0421000,Landrum,2480,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17966,SC0450500,Lane,473,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17628,SC0170300,Latta,1339,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17768,SC0300000,Laurens,47081,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17769,SC0300100,Laurens,9194,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,25814,SC0300700,Laurens Hospital,0,7,"Cities under 2,500",0,9,1,12,0,0,1
+2016,South Carolina,SC,17780,SC0310000,Lee,14566,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17791,SC0320300,Leesville,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17788,SC0320000,Lexington,210740,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17792,SC0320400,Lexington,20399,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17805,SC0321700,Lexington County Medical Center,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17882,SC0390400,Liberty,3227,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17553,SC0100600,Lincolnville,1212,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17840,SC0360400,Little Mountain,295,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17731,SC0260500,Loris,2573,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17930,SC0421100,Lyman,3404,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17782,SC0310200,Lynchburg,354,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17598,SC0140100,Manning,4046,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17819,SC0340100,Marion,6710,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17818,SC0340000,Marion,19977,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17827,SC0350000,Marlboro,16219,8C,"Non-MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17691,SC0230400,Mauldin,25246,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17945,SC0430200,Mayesville,731,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17589,SC0130400,McBee,856,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17829,SC0350200,McColl,2072,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17812,SC0330100,McCormick,2685,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17811,SC0330000,McCormick,7091,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17556,SC0100900,Medical University of South Carolina,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17804,SC0321600,Midlands Technical College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17527,SC0080100,Moncks Corner,9871,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17550,SC0100300,Mount Pleasant,80446,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17820,SC0340200,Mullins,4503,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17732,SC0260600,Myrtle Beach,30731,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17836,SC0360000,Newberry,25019,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17837,SC0360100,Newberry,10263,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17459,SC0020600,New Ellenton,2123,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17821,SC0340300,Nichols,357,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17707,SC0240400,Ninety Six,2033,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17885,SC0390700,Norris,813,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17867,SC0380800,North,746,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17456,SC0020300,North Augusta,22531,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17555,SC0100800,North Charleston,109051,2,"Cities from 100,000 thru 249,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,25831,SC0231200,North Greenville College,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17733,SC0260700,North Myrtle Beach,15518,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17868,SC0380900,Norway,330,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17848,SC0370000,Oconee,60168,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,25812,SC0370700,Oconee Hospital,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17667,SC0210500,Olanta,574,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17500,SC0050400,Olar,241,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17859,SC0380000,Orangeburg,69620,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17860,SC0380100,Orangeburg,13459,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,23297,SC0381400,Orangeburg-Calhoun Technical College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17931,SC0421200,Pacolet,2337,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17934,SC0421500,Pacolet Mills,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17590,SC0130500,Pageland,2742,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17668,SC0210600,Pamplico,1252,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17591,SC0130600,Patrick,348,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17681,SC0220300,Pawleys Island,106,7,"Cities under 2,500",0,10,1,12,0,0,1
+2016,South Carolina,SC,17796,SC0320800,Pelion,702,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17487,SC0040700,Pelzer,92,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17484,SC0040400,Pendleton,3140,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2016,South Carolina,SC,17465,SC0021400,Perry,237,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17883,SC0390500,Pickens,3155,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17878,SC0390000,Pickens,73493,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17488,SC0040800,Piedmont,5408,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,1,1
+2016,South Carolina,SC,17797,SC0320900,Pine Ridge,2226,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17946,SC0430300,Pinewood,541,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17519,SC0070300,Port Royal,12167,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17775,SC0309E00,Presbyterian College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17841,SC0360500,Prosperity,1195,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17669,SC0210700,Quinby,950,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17557,SC0101000,Ravenel,2598,6,"Cities from 2,500 thru 9,999",0,0,0,0,1,0,1
+2016,South Carolina,SC,17891,SC0400000,Richland,256332,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17900,SC040013C,Richland County Detention Center,0,9D,"MSA counties under 10,000",0,0,0,0,1,1,1
+2016,South Carolina,SC,17744,SC0270200,Ridgeland,4084,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17913,SC0410200,Ridge Spring,744,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17639,SC0180400,Ridgeville,1956,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17656,SC0200200,Ridgeway,312,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17975,SC0460300,Rock Hill,70860,3,"Cities from 50,000 thru 99,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17853,SC0370500,Salem,147,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17460,SC0020700,Salley,418,7,"Cities under 2,500",0,6,0,6,0,0,0
+2016,South Carolina,SC,17912,SC0410100,Saluda,3618,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17911,SC0410000,Saluda,15272,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17870,SC0381100,Santee,940,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,25402,SC0080800,Santee Cooper,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17670,SC0210800,Scranton,862,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17629,SC0170400,Sellers,213,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17849,SC0370100,Seneca,8274,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17842,SC0360600,Silverstreet,163,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17692,SC0230500,Simpsonville,20566,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17619,SC0160400,Society Hill,549,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17896,SC0400700,South Carolina Alcohol Beverage Control,0,9D,"MSA counties under 10,000",0,0,0,0,1,0,0
+2016,South Carolina,SC,23177,SC0103000,South Carolina Division of Public Railways,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17985,SCSHP0000,South Carolina Highway Patrol,0,8D,"Non-MSA counties under 10,000",0,0,0,0,1,1,1
+2016,South Carolina,SC,17902,SC0402500,South Carolina Law Enforcement Division Vehicle Crimes,0,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17449,SC001AB00,South Carolina Law Enforcement Division Vice: Abbeville County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17468,SC002AB00,South Carolina Law Enforcement Division Vice: Aiken County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17476,SC003AB00,South Carolina Law Enforcement Division Vice: Allendale County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17492,SC004AB00,South Carolina Law Enforcement Division Vice: Anderson County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17503,SC005AB00,South Carolina Law Enforcement Division Vice: Bamberg County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17512,SC006AB00,South Carolina Law Enforcement Division Vice: Barnwell County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17522,SC007AB00,South Carolina Law Enforcement Division Vice: Beaufort County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17535,SC008AB00,South Carolina Law Enforcement Division Vice: Berkeley County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17543,SC009AB00,South Carolina Law Enforcement Division Vice: Calhoun County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17564,SC010AB00,South Carolina Law Enforcement Division Vice: Charleston County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17572,SC011AB00,South Carolina Law Enforcement Division Vice: Cherokee County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17581,SC012AB00,South Carolina Law Enforcement Division Vice: Chester County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17593,SC013AB00,South Carolina Law Enforcement Division Vice: Chesterfield County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17602,SC014AB00,South Carolina Law Enforcement Division Vice: Clarendon County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17611,SC015AB00,South Carolina Law Enforcement Division Vice: Colleton County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17621,SC016AB00,South Carolina Law Enforcement Division Vice: Darlington County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17631,SC017AB00,South Carolina Law Enforcement Division Vice: Dillon County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17641,SC018AB00,South Carolina Law Enforcement Division Vice: Dorchester County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17650,SC019AB00,South Carolina Law Enforcement Division Vice: Edgefield County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17658,SC020AB00,South Carolina Law Enforcement Division Vice: Fairfield County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17674,SC021AB00,South Carolina Law Enforcement Division Vice: Florence County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17683,SC022AB00,South Carolina Law Enforcement Division Vice: Georgetown County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17699,SC023AB00,South Carolina Law Enforcement Division Vice: Greenville County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17710,SC024AB00,South Carolina Law Enforcement Division Vice: Greenwood County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17722,SC025AB00,South Carolina Law Enforcement Division Vice: Hampton County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17738,SC026AB00,South Carolina Law Enforcement Division Vice: Horry County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17746,SC027AB00,South Carolina Law Enforcement Division Vice: Jasper County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17755,SC028AB00,South Carolina Law Enforcement Division Vice: Kershaw County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17764,SC029AB00,South Carolina Law Enforcement Division Vice: Lancaster County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17776,SC030AB00,South Carolina Law Enforcement Division Vice: Laurens County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17784,SC031AB00,South Carolina Law Enforcement Division Vice: Lee County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17807,SC032AB00,South Carolina Law Enforcement Division Vice: Lexington County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17823,SC034AB00,South Carolina Law Enforcement Division Vice: Marion County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17832,SC035AB00,South Carolina Law Enforcement Division Vice: Marlboro County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17814,SC033AB00,South Carolina Law Enforcement Division Vice: McCormick County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17844,SC036AB00,South Carolina Law Enforcement Division Vice: Newberry County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17855,SC037AB00,South Carolina Law Enforcement Division Vice: Oconee County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17874,SC038AB00,South Carolina Law Enforcement Division Vice: Orangeburg County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17887,SC039AB00,South Carolina Law Enforcement Division Vice: Pickens County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17906,SC040AB00,South Carolina Law Enforcement Division Vice: Richland County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17915,SC041AB00,South Carolina Law Enforcement Division Vice: Saluda County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17939,SC042AB00,South Carolina Law Enforcement Division Vice: Spartanburg County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17948,SC043AB00,South Carolina Law Enforcement Division Vice: Sumter County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17957,SC044AB00,South Carolina Law Enforcement Division Vice: Union County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17968,SC045AB00,South Carolina Law Enforcement Division Vice: Williamsburg County,0,8D,"Non-MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17980,SC046AB00,South Carolina Law Enforcement Division Vice: York County,0,9D,"MSA counties under 10,000",0,0,0,0,0,0,0
+2016,South Carolina,SC,17938,SC0423000,South Carolina School for the Deaf and Blind,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17871,SC0381200,South Carolina State University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17798,SC0321000,South Congaree,2393,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17920,SC0420100,Spartanburg,37707,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17919,SC0420000,Spartanburg,227656,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17935,SC042169E,Spartanburg Methodist College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17799,SC0321100,Springdale,2775,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17869,SC0381000,Springfield,506,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17489,SC0040900,Starr,189,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17898,SC0401400,State Museum,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17560,SC0101300,State Ports Authority,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17984,SC0472600,State Transportation Police Main Headquarters,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17447,SC0012600,State Transport Police: Abbeville County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17467,SC0022600,State Transport Police: Aiken County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17475,SC0032600,State Transport Police: Allendale County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17491,SC0042600,State Transport Police: Anderson County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17502,SC0052600,State Transport Police: Bamberg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17511,SC0062600,State Transport Police: Barnwell County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17521,SC0072600,State Transport Police: Beaufort County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17534,SC0082600,State Transport Police: Berkeley County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17542,SC0092600,State Transport Police: Calhoun County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17563,SC0102600,State Transport Police: Charleston County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17571,SC0112600,State Transport Police: Cherokee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17580,SC0122600,State Transport Police: Chester County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17592,SC0132600,State Transport Police: Chesterfield County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17601,SC0142600,State Transport Police: Clarendon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17610,SC0152600,State Transport Police: Colleton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17620,SC0162600,State Transport Police: Darlington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17630,SC0172600,State Transport Police: Dillon County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17640,SC0182600,State Transport Police: Dorchester County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17649,SC0192600,State Transport Police: Edgefield County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17657,SC0202600,State Transport Police: Fairfield County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17673,SC0212600,State Transport Police: Florence County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17682,SC0222600,State Transport Police: Georgetown County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17698,SC0232600,State Transport Police: Greenville County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17709,SC0242600,State Transport Police: Greenwood County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17721,SC0252600,State Transport Police: Hampton County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17737,SC0262600,State Transport Police: Horry County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17745,SC0272600,State Transport Police: Jasper County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17754,SC0282600,State Transport Police: Kershaw County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17763,SC0292600,State Transport Police: Lancaster County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17774,SC0302600,State Transport Police: Laurens County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17783,SC0312600,State Transport Police: Lee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17806,SC0322600,State Transport Police: Lexington County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17822,SC0342600,State Transport Police: Marion County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17831,SC0352600,State Transport Police: Marlboro County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17813,SC0332600,State Transport Police: McCormick County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17843,SC0362600,State Transport Police: Newberry County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17854,SC0372600,State Transport Police: Oconee County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17873,SC0382600,State Transport Police: Orangeburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17886,SC0392600,State Transport Police: Pickens County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17903,SC0402600,State Transport Police: Richland County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17914,SC0412600,State Transport Police: Saluda County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17936,SC0422600,State Transport Police: Spartanburg County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17947,SC0432600,State Transport Police: Sumter County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17956,SC0442600,State Transport Police: Union County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17967,SC0452600,State Transport Police: Williamsburg County,0,8D,"Non-MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17979,SC0462600,State Transport Police: York County,0,9D,"MSA counties under 10,000",1,12,1,12,0,1,1
+2016,South Carolina,SC,17636,SC0180100,St. George,2153,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17541,SC0090200,St. Matthews,1986,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17531,SC0080500,St. Stephen,1797,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17964,SC0450300,Stuckey,233,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17554,SC0100700,Sullivans Island,1922,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17599,SC0140200,Summerton,972,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17637,SC0180200,Summerville,48071,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17944,SC0430100,Sumter,41017,4,"Cities from 25,000 thru 49,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17943,SC0430000,Sumter,67254,9B,"MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17734,SC0260800,Surfside Beach,4276,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17800,SC0321200,Swansea,890,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17977,SC0460500,Tega Cay,9501,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17558,SC0101100,The Citadel,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17671,SC0210900,Timmonsville,2392,7,"Cities under 2,500",0,5,0,5,0,0,0
+2016,South Carolina,SC,17693,SC0230600,Travelers Rest,4995,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17648,SC0190300,Trenton,190,7,"Cities under 2,500",0,0,0,0,1,0,0
+2016,South Carolina,SC,25792,SC0041100,Tri-County Technical College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17559,SC0101200,Trident Technical College,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17600,SC0140300,Turbeville,808,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17952,SC0440000,Union,18868,9C,"MSA counties from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17953,SC0440100,Union,7960,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17463,SC0021000,United States Department of Energy Savannah River Plant,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17466,SC0021500,University of South Carolina: Aiken,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,25401,SC0070500,University of South Carolina: Beaufort,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17895,SC0400600,University of South Carolina: Columbia,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17933,SC0421400,University of South Carolina: Upstate,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17872,SC0381300,Vance,166,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17718,SC0250400,Varnville,2077,7,"Cities under 2,500",0,0,0,0,0,0,0
+2016,South Carolina,SC,17461,SC0020800,Wagener,822,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17850,SC0370200,Walhalla,4213,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17607,SC0150100,Walterboro,5250,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17705,SC0240200,Ware Shoals,2162,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17462,SC0020900,Warrenville,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17932,SC0421300,Wellford,2538,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17793,SC0320500,West Columbia,16051,5,"Cities from 10,000 thru 24,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17851,SC0370300,Westminster,2474,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17490,SC0041000,West Pelzer,903,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17852,SC0370400,West Union,312,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17838,SC0360200,Whitmire,1456,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17773,SC0300500,Whitten Center,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17961,SC0450000,Williamsburg,27899,8B,"Non-MSA counties from 25,000 thru 99,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17485,SC0040500,Williamston,4106,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17509,SC0060200,Williston,3033,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17803,SC0321500,Wil Lou Gray Opportunity School,0,7,"Cities under 2,500",0,0,0,0,1,1,1
+2016,South Carolina,SC,17655,SC0200100,Winnsboro,3348,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17978,SC0460600,Winthrop University,0,7,"Cities under 2,500",1,12,1,12,0,1,1
+2016,South Carolina,SC,17921,SC0420200,Woodruff,4117,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
+2016,South Carolina,SC,17520,SC0070400,Yemassee,0,7,"Cities under 2,500",0,0,0,0,1,0,1
+2016,South Carolina,SC,17720,SC0250600,Yemassee,986,7,"Cities under 2,500",0,7,1,12,0,0,1
+2016,South Carolina,SC,17972,SC0460000,York,143109,9A,"MSA counties 100,000 or over",1,12,1,12,0,1,1
+2016,South Carolina,SC,17976,SC0460400,York,8107,6,"Cities from 2,500 thru 9,999",1,12,1,12,0,1,1
